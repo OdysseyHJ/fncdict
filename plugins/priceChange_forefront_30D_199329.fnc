@@ -1,0 +1,1 @@
+priceChange_forefront_30D,199329,,//三十天涨幅最大的个股名单前50个，倒过来排就是跌幅前列前五十^r^n^pCLOSE^sCLOSE^b30^B^P/CLOSE^b30^B *100,2147430400;

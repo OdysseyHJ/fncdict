@@ -1,0 +1,1 @@
+KDJ买入条件选股,3148241,N^e9^c1^c40^c1^rM1^e3^c2^c40^c1^rM2^e3^c2^c40^c1^rS^e20^c0^c100^c1^r,RSV:^e^pCLOSE^sLLV^pLOW^cN^P^P/^pHHV^pHIGH^cN^P^sLLV^pLOW^cN^P^P*100^a^r^nK^eSMA^pRSV^cM1^c1^P^a^r^nD^eSMA^pK^cM2^c1^P^a^r^nSELECT CROSS^pK^cD^P AND K<s^a,2147430400;

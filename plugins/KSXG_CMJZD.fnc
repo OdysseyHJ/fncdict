@@ -1,0 +1,1 @@
+筹码集中度,461370,,主力持仓:^eEMA^p100*^pCLOSE^sLLV^pLOW^c34^P^P/^pHHV^pHIGH^c34^P^sLLV^pLOW^c34^P^P^c3^P^a^r^n散筹筹码集中度:^e^pWINNER^pC*1.1^P^sWINNER^pC*0.9^P^P*100^a^r^nSELECT CROSS^p主力持仓^c散筹筹码集中度^P^a^r^n,2147430400;

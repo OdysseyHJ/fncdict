@@ -1,0 +1,1 @@
+shortTerm_breakthrough,1073876246,,	n^e0^a^r^nIF ^pCROSS^pC^cMA^pCLOSE^c5^P^P^P^r^n	n^en+1^a^r^nIF ^pCROSS^pC^cMA^pCLOSE^c10^P^P^P^r^n	n^en+1^a^r^nIF ^pCROSS^pC^cMA^pCLOSE^c20^P^P^P^r^n	n^en+1^a^r^nRETURN 	n>^e2,2147430400;

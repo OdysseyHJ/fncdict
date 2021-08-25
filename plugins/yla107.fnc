@@ -1,0 +1,1 @@
+รอมาด๒ัน,1074269405,,Out :> "colorgreen"^a^r^nFORMATTIME^p1^P>1 AND ^pNEW^sNEW^b2^B^P/NEW^b2^B*100 < ^s1.8^a,805249024;

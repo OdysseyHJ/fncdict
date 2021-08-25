@@ -1,0 +1,1 @@
+static_PE,134152,,x^eYEARJLR/ZGB^a^r^nIF ^pISNULL^px^P!^eTRUE AND x < 0 ^P^r^n RETURN 0^a^r^nIF ^pISNULL^pNEW^P^P^r^n RETURN PRE/x^a^r^nELSE RETURN NEW/x^a,0;

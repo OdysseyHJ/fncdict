@@ -1,0 +1,1 @@
+repo_quotation_weighting,658407,,IF^pMARKETTYPE^e^e136^P^r^n	RETURN HQSYL^a^r^nELSE RETURN AVGYIELD^a,0;

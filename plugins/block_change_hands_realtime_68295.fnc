@@ -1,0 +1,1 @@
+block_change_hands_realtime,68295,,MONEY/HQLTSZ*100^a,0;

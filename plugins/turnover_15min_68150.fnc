@@ -1,0 +1,1 @@
+turnover_15min,68150,,¶î^eMAX^p0^cSUBSAMEDAY^p&MONEY^P^P^a^r^ncje^eSUM^p¶î^c15^P^a^r^nRETURN cje^a,805249024;

@@ -1,0 +1,1 @@
+priceChange_5min,3934664,,p^eIF^pISNULL^pNEW^b5^B^P^cPRE^cNEW^b5^B^P^a^nRETURN ^pNEW^sp^P/^pp^P*100,536879104

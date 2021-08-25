@@ -1,0 +1,1 @@
+changHands_topRank_30D,199333,,//换手前列十天前五十个股^r^nSUM^pVOL^c30^P/SHGZG *100^a,2147430400;

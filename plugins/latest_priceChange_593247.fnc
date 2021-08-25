@@ -1,0 +1,1 @@
+latest_priceChange,593247,,X:^eBONDPRICEMODE^p^P^a ^r^nIF X^e^e 0 THEN ^r^nB^e^pNEW^sPRE^P/PRE*100^a ^r^nELSE IF X^e^e 1 THEN ^r^nB^e^pNEW^sBONDPRE^P/^pBONDPRE^P*100^a ^r^nRETURN ^pB^P^a ^r^n,0;

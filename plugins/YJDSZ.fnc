@@ -1,0 +1,1 @@
+研究度数值,133817,,A1:^ejgyjda^a^r^nIF^pjgyjda>500^P^r^nA1^e500^a^r^nELSE A1^ejgyjda^a^r^nA2^eA1*2/10^a^r^n机构平均研究度:A2 ^a^r^nyjd:A2^sMA^pA2^c10^P^a^r^nHts:COUNT^pyjd>0^c7^P^a^r^n,2147430400;

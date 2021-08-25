@@ -1,0 +1,1 @@
+20日均线趋势拐点^s^s短线追涨,461347,,MC:^eMA^pC^c20^P^a^r^nTJ:^eMC>REF^pMC^c1^P AND COUNT^pREF^pMC^c1^P<^eREF^pMC^c2^P^c3^P^e3^a^r^nSELECT TJ AND C>^eMC*0.99 AND C<^eMC*1.05^a^r^n,2147430400;

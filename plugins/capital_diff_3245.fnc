@@ -1,0 +1,1 @@
+capital_diff,3245,,FLOWIN^sFLOWOUT^a,0;

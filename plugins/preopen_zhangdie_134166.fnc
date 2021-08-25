@@ -1,0 +1,1 @@
+美股盘前的涨跌值,134166,,ret^ePQXJ^sPRE^a^r^nRETURN ret^a,0;

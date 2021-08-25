@@ -1,0 +1,1 @@
+Âó¿ËÖ¸±ê,68324,N^e12^c1^c200^c1^r,TYP:^e^pHIGH+LOW+CLOSE^P/3^a^r^nLL:^eLLV^pLOW^cN^P^a^r^nHH:^eHHV^pHIGH^cN^P^a^r^nWR:TYP+^pTYP^sLL^P^a^r^nMR:TYP+^pHH^sLL^P^a^r^nSR:2*HH^sLL^a^r^nWS:TYP^s^pHH^sTYP^P^a^r^nMS:TYP^s^pHH^sLL^P^a^r^nSS:2*LL^sHH,2147430400;

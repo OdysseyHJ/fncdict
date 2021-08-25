@@ -1,0 +1,1 @@
+actual_leverage,855125,,a^eINDEXDATA^pQZXX_BDZQ^c&NEW^P^a ^nb^eQZXX_XQBL^a ^ncc^edcz^a^n{ ^nw^ea/^pNEW*b^P*cc/100^a ^n} ^nRETURN^pw^P^a,0

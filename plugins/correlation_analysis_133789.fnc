@@ -1,0 +1,1 @@
+correlation_analysis,133789,N^e250^c1^c500^c1^r,^r^n x:^e^pCLOSE^sCLOSE^b1^B^P/CLOSE^b1^B*100^a^r^n r:^eINDEXDATA^p"399300"^c&CLOSE^P^a^r^n y:^e^pr^sr^b1^B^P/r^b1^B*100^a^r^nRETURN ^pn*SUM^px*y^cn^P^sSUM^px^cn^P*SUM^py^cn^P^P/^pn*SUM^py*y^cn^P^sPOW^pSUM^py^cn^P^c2^P^P^a^r^n,2147430400;

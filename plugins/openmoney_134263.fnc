@@ -1,0 +1,1 @@
+¿ªÅÌ³É½»¶î,134263,,return if^pisnull^popenvol^P^c0^copen*openvol^P^a,0;

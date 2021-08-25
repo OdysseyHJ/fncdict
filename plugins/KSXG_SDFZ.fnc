@@ -1,0 +1,1 @@
+Ë«µº·´×ª,526852,,T1:^eREF^pH^c1^P<REF^pL^c2^P AND REF^pL^c1^P<REF^pC^c2^P*0.93^r^n AND REF^pC^c1^P>REF^pC^c2^P*0.95^a^r^nSELECT T1 AND C>REF^pMAX^pC^cO^P^c1^P^a,2147430400;

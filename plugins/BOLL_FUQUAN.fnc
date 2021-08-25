@@ -1,0 +1,1 @@
+²¼ÁÖ´ø,68320,N^e20^c5^c300^c1^rP^e2^c1^c10^c1^r,MID :  MA^pCLOSE^cN^P^a^r^nUPPER: MID + P*STD^pCLOSE^cN^P^a^r^nLOWER: MID ^s P*STD^pCLOSE^cN^P^a,2147430400;

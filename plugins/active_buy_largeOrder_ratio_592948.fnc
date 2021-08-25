@@ -1,0 +1,1 @@
+active_buy_largeOrder_ratio,592948,,^pBIGBUYCOUNT1+BIGBUYCOUNT2^P/SHGZG*100^a,0;

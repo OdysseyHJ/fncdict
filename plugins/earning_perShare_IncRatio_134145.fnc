@@ -1,0 +1,1 @@
+earning_perShare_IncRatio,134145,,^r^nRETURN ^pMGYL^sREP^p&MGYL^c2^P^P/REP^p&MGYL^c2^P*100^a^r^n,2147430400;

@@ -1,0 +1,1 @@
+滚动净资产收益率,134072,,vgdqyhj^e^pREP^p&GDQYHJ^c1^P + REP^p&GDQYHJ^c2^P^P/2^a^r^n^r^nIF^pISNULL^pTTMJLR^P^e^eTRUE OR ISNULL^pvgdqyhj^P^e^eTRUE^P^r^n{^r^n	vret^e0^a^r^n}^r^nELSE IF^pTTMJLR < 0 OR vgdqyhj < 0^P^r^n{^r^n	vret^eNULL^a^r^n}^r^nELSE^r^n{^r^n	vret^eTTMJLR/vgdqyhj^a^r^n}^r^n^r^nRETURN vret^a,0;

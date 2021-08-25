@@ -1,0 +1,1 @@
+AvgPrice_200D,134132,,^r^na^eSUM^pMONEY^c200^P^a^r^nb^eSUM^pVOL^c200^P^a^r^nqq^ea/b^a^r^n,2147430400;

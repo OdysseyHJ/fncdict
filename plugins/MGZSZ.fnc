@@ -1,0 +1,1 @@
+美股总市值,658240,,IF ^pISNULL^pNEW^P^P^r^n RETURN PRE*ZGB^a^r^nELSE ^r^nRETURN NEW*ZGB^a,0;

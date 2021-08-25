@@ -1,0 +1,1 @@
+banker_profit,625300,,LONG^eCM^p0^c1^c2^c0^c600^c1^P^a^r^nvar1:^e1*COST^p20^c&LONG^P^a^r^n×¯¼Ò»ñÀû:^pCLOSE^sVAR1^P/VAR1*100,2147430400;

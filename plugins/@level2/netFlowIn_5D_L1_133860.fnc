@@ -1,0 +1,1 @@
+netFlowIn_5D,133860,,a1^eBIGBUYMONEY1+BIGBUYMONEY2^sBIGSELLMONEY1^sBIGSELLMONEY2^a^na2^eREF^pa1^c1^P^a^na3^eREF^pa1^c2^P^a^na4^eREF^pa1^c3^P^a^na5^eREF^pa1^c4^P^a^nreturn a1+a2+a3+a4+a5^a,2147430400

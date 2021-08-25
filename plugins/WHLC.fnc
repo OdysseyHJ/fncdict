@@ -1,0 +1,1 @@
+WHLC,593063,,tH1^eHHV^pHIGH^c52^P^a^ntH2^eLLV^pLOW^c52^P^a^nIF^pISNULL^ptH1^P^e^e1^P^n{^n    tH1^eHHV^pHIGH^c0^P^a^n    tH2^eLLV^pLOW^c0^P^a^n}^nH1:tH1^a^nH2:tH2^a,2147430400;

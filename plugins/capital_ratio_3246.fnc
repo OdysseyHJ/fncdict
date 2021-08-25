@@ -1,0 +1,1 @@
+capital_ratio,3246,,^pFLOWIN^sFLOWOUT^P/^pFLOWIN+FLOWOUT^P*100^a,0;

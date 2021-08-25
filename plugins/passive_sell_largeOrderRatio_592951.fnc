@@ -1,0 +1,1 @@
+passive_sell_largeOrderRatio,592951,,^pWAITSELLCOUNT1+WAITSELLCOUNT2^P/SHGZG*100,0;

@@ -1,0 +1,1 @@
+longTerm_strategy,658340,,F1:^e^pCLOSE+HIGH^P/2^a^r^nf2:^eMA^pCLOSE^c21^P^a^r^nIF^pCROSS^pf1^cf2^P^P^r^n	Cxcl^e1^a //买入时机^a^r^n	ELSE IF ^pCROSS^pf2^cf1^P^P^r^n		Cxcl^e2^a//卖出时机^a^r^n		ELSE IF^p^pCLOSE^sHHV^pHIGH^c10^P^P/HHV^pHIGH^c10^P<^s0.10^P^r^n			Cxcl^e2^a//卖出时机^a^r^n			ELSE Cxcl^e1.5^a^r^nRETURN Cxcl^a,2147430400;

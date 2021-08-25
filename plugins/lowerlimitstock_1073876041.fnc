@@ -1,0 +1,1 @@
+选出跌停股票的选股公式,1073876041,,ret^e0^a^nif^pNEW ^e^e LOWERLIM AND BUYCOUNT1 ^e^e 0^P^n{^n	ret^e1^a^n}^nelse if^pSELLPRICE1 ^e^e LOWERLIM AND BUYPRICE1 ^e^e LOWERLIM AND BUYCOUNT1 ^e^e SELLCOUNT1^P^n{^n	ret^e1^a^n}^nelse if^pISNULL^pBUYCOUNT1^P AND NEW ^e^e LOWERLIM^P^n{^n	ret^e1^a^n}^nelse^n{^n	ret^e0^a^n}^n^n^nSELECT  ret^e^e1^a^n,0

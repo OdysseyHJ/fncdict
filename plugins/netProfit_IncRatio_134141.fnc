@@ -1,0 +1,1 @@
+netProfit_IncRatio,134141,,^r^nRETURN ^pJLR^sREP^p&JLR^c2^P^P/ABS^pREP^p&JLR^c2^P^P*100^a,2147430400;

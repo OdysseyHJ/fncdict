@@ -1,0 +1,1 @@
+¼´Ê±µø·ùÏÂÆÆ200%,1073941153,,Out :> "colorgreen"^a^r^n^pNEW^sPRE^P/PRE <^e ^s2.00 AND ^pNEW^b1^B^sPRE^P/PRE > ^s2.00,805249024;

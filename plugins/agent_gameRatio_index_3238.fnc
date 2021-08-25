@@ -1,0 +1,1 @@
+agent_gameRatio_index,3238,,a:^eZDMR^b^s1^B+BDMR^b^s1^B^a^r^nb:^eZDMC^b^s1^B+BDMC^b^s1^B^a^r^nbl:^e^pa^sb^P/^pa+b^P*100^a^r^n一日:MA^pbl^c1^P^a^r^n三日:MA^pbl^c3^P^a^r^n五日:MA^pbl^c5^P^a^r^n十日:MA^pbl^c10^P^a,2147430400;

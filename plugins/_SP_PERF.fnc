@@ -1,0 +1,1 @@
+主站使用的公式,4164266,,IF^pNEW < 1500 AND OPEN < 30^P^r^n{^r^n	RETURN ^s1000^a^r^n}^r^nELSE IF^pNEW  < 2500 AND OPEN < 70^P^r^n{^r^n   RETURN 0^a^r^n}^r^nELSE IF^pNEW < 5000 AND OPEN < 90^P^r^n{^r^n   RETURN 3000^a^r^n}^r^nELSE^r^n{^r^n	RETURN 5000^a^r^n},0;

@@ -1,0 +1,1 @@
+smallBoard_active_5D,199345,,a:^eSHGZG^a^r^nIF ^pISNULL^pNEW^P^P^r^nb:^ePRE*a^a^r^nELSE^r^nb:^eNEW*a^a^r^n ^r^nb1:^eBIGBUYCOUNT1+WAITBUYCOUNT1^a^r^ns1:^eBIGSELLCOUNT1+WAITSELLCOUNT1^a^r^nb2:^eBIGBUYCOUNT2+WAITBUYCOUNT2^a^r^ns2:^eBIGSELLCOUNT2+WAITSELLCOUNT2^a^r^n^r^nn:^e5^a^r^nccc^eCOUNT^p^pb1+b2^ss1^ss2^P> 0^cn^P^a^r^nIF ^pccc> 3 AND b< ^e1500000000^P RETURN 1^a^r^n ,2147430400;

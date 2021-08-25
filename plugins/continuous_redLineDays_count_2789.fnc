@@ -1,0 +1,1 @@
+continuous_redLineDays_count,2789,,BARSLASTCOUNT^pCLOSE>OPEN^P^a,2147430400;

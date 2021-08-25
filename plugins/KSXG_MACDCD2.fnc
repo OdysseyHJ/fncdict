@@ -1,0 +1,1 @@
+MACD¶ÌÏß³¬µø2ºÅ,461352,,DIF:^eEMA^pC^c12^P^sEMA^pC^c26^P^a^r^nDEA:^eEMA^pDIF^c9^P^a^r^nMACD:^eDIF^sDEA^a^r^nTJ1:^eCOUNT^pDIF>0^c33^P>29^a^r^nTJ2:^eCOUNT^pCROSS^p0^cDIF^P^c3^P^a^r^nTJ3:^e^pC^sO^P/O>0.01 OR ^pH^sO^P/O>0.015 OR ^pC^sL^P/L>0.015^a^r^nSELECT TJ1 AND TJ2 AND TJ3^a^r^n^r^n^r^n^r^n,2147430400;

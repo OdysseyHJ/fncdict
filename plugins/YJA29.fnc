@@ -1,0 +1,1 @@
+内盘大于外盘200%,1077873120,,Out :> "colorgreen"^a^r^n^pVOL^sOUTVOL^P/OUTVOL>3^a,0;

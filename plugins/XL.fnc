@@ -1,0 +1,1 @@
+Îü»õÁ¿,265307,,zz:^eIF^pREF^pC^c1^P>REF^pO^c1^P AND O>REF^pC^c1^P*1.014 AND C<O*1.02^c1^c3^P^a^r^nv5:^eMA^pV^c5^P^a^r^nv12:^eMA^pV^c12^P^a^r^nV34:^eMA^pV^c34^P^a^r^nC6:^eMA^pC^c6^P^a^r^nIF ^pCROSS^pC^cC6^P AND V>v5*1.2 AND V>v12*1.2 AND zz>2 AND C>H*0.975^P^r^n	RETURN 1^a^r^n^r^n,2147430400;

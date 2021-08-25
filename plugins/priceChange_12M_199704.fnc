@@ -1,0 +1,1 @@
+priceChange_12M,199704,,pre_price ^e IF^pISNULL^pCLOSE^b12^B^P^c qfqfxj^c CLOSE^b12^B^P^a^npre_price ^e IF^pISNULL^ppre_price^P^c sjfxj^c pre_price^P^a^npre_price ^e IF^pISNULL^ppre_price^P^c fxj^c pre_price^P^a^nres ^e ^pCLOSE ^s pre_price^P / pre_price * 100^a^nreturn res^a,1610702848

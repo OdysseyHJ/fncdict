@@ -1,0 +1,1 @@
+±¨¼ÛÂóÊÏ¾ÃÆÚ,526818,,IF^pMARKETTYPE^e^e16 OR MARKETTYPE^e^e32^P^r^n	{^r^n    Y:^eBONDYIELD^p&bond_cf^cNEW^c&bond_couponcode^c&bond_dqr^c&bond_qxr^c&bond_f^cbond_yjlx^c&bond_par^P/100^a^r^n    A:^eBONDMACDISCRETE^p&bond_cf^cNEW^cbond_yjlx^cY^P^a	^r^n		}^r^nELSE IF^pMARKETTYPE^e^e136^P^r^n   A:^eBUYCOUNT1^a^r^nRETURN A^a,0;

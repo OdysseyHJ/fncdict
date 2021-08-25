@@ -1,0 +1,1 @@
+DL_stockSelection,133639,,m5:^eMA^pC^c5^P^a^r^nVOL > 0 AND VOL<MA^pVOL^c5^P/2 AND m5<REF^pm5^c1^P ,2147430400;

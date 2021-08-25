@@ -1,0 +1,1 @@
+¼âÈý±ø,461498,,zt:^eC>REF^pC^c1^P*1.099^a^r^nzf:^eHHV^pH^c3^P>^eLLV^pL^c3^P*1.15^a^r^ndn:^eCOUNT^pzt^c3^P>^e1^a^r^nSELECT dn AND COUNT^pzf^c3^P>0 AND ^pREF^pC^c2^P>REF^pC^c3^P AND C>REF^pH^c1^P^P^a^r^n,2147430400;

@@ -1,0 +1,1 @@
+一阳三线^s^s短线追涨,461368,,MA2:^eEMA^pC^c2^P^a^r^nMA5:^eEMA^pC^c5^P^a^r^nMA10:^eEMA^pC^c10^P^a^r^nMA30:^eEMA^pC^c30^P^a^r^nYCX:^eMA5>^eREF^pMA5^c1^P^a^r^nH1:^eMAX^pMAX^pMA5^cMA10^P^cMA30^P^a^r^nL1:^eMIN^pMIN^pMA5^cMA10^P^cMA30^P^a^r^nSELECT  H1<C AND O<L1 AND YCX AND MA2>REF^pMA2^c1^P^a^r^n^r^n,2147430400;

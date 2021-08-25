@@ -1,0 +1,1 @@
+changHandsRatio_60D,330751,,SUM^pVOL/SHGZG^c60^P*100^a,2147430400;

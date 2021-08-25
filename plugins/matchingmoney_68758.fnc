@@ -1,0 +1,1 @@
+集合竞价撮合金额,68758,,res^eNULL^a^r^nIF^pISNULL^pOPENVOL^P ^e^e 0^P^r^n{^r^n	res^eOPEN*OPENVOL^a^r^n}^r^nELSE^r^n{^r^n	res^eNEW*VOL^a^r^n}^r^nRETURN res^a,0;

@@ -1,0 +1,1 @@
+Ëæ»úÖ¸±ê,68318,N^e9^c1^c100^c1^rM1^e3^c2^c40^c1^rM2^e3^c2^c40^c1^r,RSV^e^pCLOSE^sLLV^pLOW^cN^P^P/^pHHV^pHIGH^cN^P^sLLV^pLOW^cN^P^P*100^a^r^na^eSMA^pRSV^cM1^c1^P^a^r^nb^eSMA^pa^cM2^c1^P^a^r^ne^e3*a^s2*b^a^r^nIF^pa<0^P a^e0^a^r^nIF^pa>100^P a^e100^a^r^nIF^pb<0^P b^e0^a^r^nIF^pb>100^P b^e100^a^r^nIF^pe<0^P e^e0^a^r^nIF^pe>100^P e^e100^a^r^nK:a^a^r^nD:b^a^r^nJ:e^a^r^n,2147430400;

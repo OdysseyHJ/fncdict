@@ -1,0 +1,1 @@
+上市首日涨幅,199116,, val_pc^eipo_pc^a^r^n IF^pISNULL^pval_pc^P^P^r^n {^r^n    val_pc^e^pNEW^sPRE^P/PRE*100^a^r^n }^r^n RETURN val_pc^a,0;

@@ -1,0 +1,1 @@
+标的现价,723638,,INDEXDATA^pbdzqdm^c&NEW^P^a,0;

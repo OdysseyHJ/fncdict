@@ -1,0 +1,1 @@
+大盘换手实时,625519,,IF^pCODE^e^e"399001"^P^r^n			{^r^n				a^eMONEY/INDEXDATA^p"399106"^c&DPLTSZ^c1^P*100^a^r^n			}^r^n		ELSE^r^n			{^r^n				a^eMONEY/DPLTSZ*100^a^r^n			}^r^nRETURN^pa^P^a^r^n,0;

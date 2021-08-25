@@ -1,0 +1,1 @@
+©ьелгВйф^s^s╤лоъв╥уг,461367,,VAR1:^e^pCLOSE*2+HIGH+LOW^P/4^a^r^nVAR2:^eEMA^pEMA^pEMA^pVAR1^c1^P^c13^P^c21^P^a^r^n©ьелоъ:^e^pVAR2^sREF^pVAR2^c1^P^P/REF^pVAR2^c1^P*100^a^r^nSELECT CROSS^p©ьелоъ^c0^P^a^r^n,2147430400;

@@ -1,0 +1,1 @@
+¡Ω∑÷÷”’«∑˘,1706446,,p^eIF^pISNULL^pNEW^b4^B^P^cPRE^cNEW^b4^B^P^a^nRET^eNULL^a^nIF^pp !^e 0^P^n{^nRET^e^pNEW^sp^P/ABS^pp^P*100^a^n}^nRETURN RET^a,805249024

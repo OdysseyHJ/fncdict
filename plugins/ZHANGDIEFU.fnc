@@ -1,0 +1,1 @@
+уг╥Ы,199112,,IF^pMARKETTYPE ^e^e 128 OR MARKETTYPE ^e^e 64^P^r^n{^r^nA:^eIF^pISNULL^pSETTLE^P^cPRE^cSETTLE^P^a^r^nRETURN ^pNEW^sA^P/A*100^a^r^n}^r^nELSE^r^nRETURN ^pNEW^sPRE^P/PRE*100^a^r^n,0;

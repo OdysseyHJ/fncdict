@@ -1,0 +1,1 @@
+Õ®È¯È«¼Û,526810,,Y:^eBONDPRICEMODE^p^P^a^r^nIF Y^e^e0 THEN^r^nW:^eNEW+bond_yjlx^a^r^nELSE IF Y^e^e1 THEN^r^nW:^eNEW^a^r^nELSE IF Y^e^e2 THEN^r^nW:^eBONDPRICE^p&bond_cf^cNEW/100^c&bond_f^P^a^r^nRETURN W^a,0;

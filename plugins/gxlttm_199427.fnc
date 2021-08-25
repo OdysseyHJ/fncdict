@@ -1,0 +1,1 @@
+¹ÉÏ¢ÂÊTTM,199427,,RETURN IF^pISNULL^pNEW^P OR NEW ^e^e 0^c 0^c SYS_DIVTTM / NEW * 100^P^a,0;

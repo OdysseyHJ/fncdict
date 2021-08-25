@@ -1,0 +1,1 @@
+AvgNetProfit_IncRatio3,134142,,^r^nq1^e^pJLR^sREP^p&JLR^c2^P^P/REP^p&JLR^c2^P*100^a^r^nq2^e^pREP^p&JLR^c2^P^sREP^p&JLR^c3^P^P/REP^p&JLR^c3^P*100^a^r^nq3^e^pREP^p&JLR^c3^P^sREP^p&JLR^c4^P^P/REP^p&JLR^c4^P*100^a^r^nRETURN ^pq1+q2+q3^P/3^a^r^n,2147430400;

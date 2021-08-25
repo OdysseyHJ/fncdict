@@ -1,0 +1,1 @@
+内在价值,723646,,IF^pputcall ^e^e "C"^P^r^nRETURN MAX^p0^cINDEXDATA^pbdzqdm^c&NEW^P^sqqxqj^P^a^r^nELSE^r^nRETURN MAX^p0^cqqxqj^sINDEXDATA^pbdzqdm^c&NEW^P^P^a^r^n^r^n,0;

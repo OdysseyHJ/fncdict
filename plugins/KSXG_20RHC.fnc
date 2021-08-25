@@ -1,0 +1,1 @@
+回采20日均线^s^s短线回调追涨,461348,,M20:^eMA^pC^c20^P^a^r^nN:^e14^a^r^nTYP:^e^pHIGH+LOW+CLOSE^P/3^a^r^nCCI:^e^pTYP^sMA^pTYP^cN^P^P/^p0.015*AVEDEV^pTYP^cN^P^P^a^r^nSELECT REF^pCOUNT^pC>M20^c3^P^e3^c1^P AND C>M20 AND L<M20*1.01 AND M20>REF^pM20^c1^P AND CCI>REF^pCCI^c1^P^a^r^n^r^n,2147430400;

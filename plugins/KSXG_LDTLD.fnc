@@ -1,0 +1,1 @@
+量顶天立地,461499,,A1:^eV^eHHV^pV^c120^P^a										^r^nA2:^eC/OPEN>1.049^a^r^nTJ:^eA1 AND A2^a^r^nSELECT TJ AND ^pREF^pBARSLAST^pTJ^P^c1^P>80 OR BARSSINCE^pTJ^P^e0^P^a^r^n,2147430400;

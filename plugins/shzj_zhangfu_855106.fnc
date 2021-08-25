@@ -1,0 +1,1 @@
+上市至今涨幅,855106,,v_fxj^efxj^a^nIF^pISNULL^pv_fxj^P^P^n	v_fxj^esjfxj^a^n^nv_new^eCLOSE^a^nIF^pISNULL^pv_new^P^P^n	v_new^ePRE^a^n^nRETURN ^pv_new^sv_fxj^P/v_fxj*100^a,2147430400;

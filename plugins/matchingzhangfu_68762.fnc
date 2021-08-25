@@ -1,0 +1,1 @@
+集合竞价撮合涨幅,68762,,res^eNULL^a^r^nIF^pISNULL^pPRE^P ^e^e 0^P^r^n{^r^n	IF^pISNULL^pOPEN^P^P^r^n	{^r^n		IF^pISNULL^pNEW^P ^e^e 0^P^r^n		{^r^n			res^e^pNEW ^s PRE^P/PRE*100^a^r^n		}^r^n	}^r^n	ELSE^r^n	{^r^n		res^e^pOPEN ^s PRE^P/PRE*100^a^r^n	}^r^n}^r^nRETURN res^a,0;

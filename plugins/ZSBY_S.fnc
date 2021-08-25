@@ -1,0 +1,1 @@
+散庄博弈"上"信号,264921,,^r^nRSV:^e^pCLOSE^sLLV^pLOW^c8^P^P/^pHHV^pHIGH^c8^P^sLLV^pLOW^c8^P^P*100^a^r^n^r^n主:^eSMA^pRSV^c3^c1^P^a^r^nRSV2:^e^pCLOSE^sLLV^pLOW^c21^P^P/^pHHV^pHIGH^c21^P^sLLV^pLOW^c21^P^P*100^a^r^n散:^eSMA^pRSV2^c5^c1^P^a^r^n^r^nIF ^pCOUNT^p主<散^c5^P>2 AND CROSS^p主^c散^P AND 主<40^P^r^n	RETURN 1^a,2147430400;

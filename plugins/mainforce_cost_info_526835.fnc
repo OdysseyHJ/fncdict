@@ -1,0 +1,1 @@
+mainforce_cost_info,526835,,集中度:^e^pCOST^p85^P^sCOST^p15^P^P/^pCOST^p85^P+COST^p15^P^P/2^a^r^n平均成本^e^p^pCOST^p85^P+COST^p15^P^P/2+COST^p50^P^P/2^a//^ccolorwhite^cLINETHICK2^a^r^nIF^p集中度<0.06^c平均成本^c0^P^cCOLORFFC0FF^cLINETHICK2^a^r^n主力成本:EMA^p平均成本*0.809^c21^P^a,-2147483648;

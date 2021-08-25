@@ -1,0 +1,1 @@
+tunover_5min,68148,,¶î^eMAX^p0^cSUBSAMEDAY^p&MONEY^P^P^a^r^ncje^eSUM^p¶î^c5^P^a^r^nRETURN cje^a,805249024;

@@ -1,0 +1,1 @@
+10·ÖÖÓ,461438,,p^eIF^pISNULL^pNEW^b10^B^P^cPRE^cNEW^b10^B^P^a^r^nRETURN ^pNEW^sp^P/^pp^P*100,536879104;

@@ -1,0 +1,1 @@
+À­Í£×Ê½ð,134291,,IF^pISNULL^pAVGSELLPRICE^P^e^eTRUE OR ISNULL^pALLSELLCOUNT^P^e^eTRUE^P^r^n{^r^n	res^e0^a^r^n}^r^nELSE^r^n{^r^n	res^eAVGSELLPRICE*ALLSELLCOUNT^a^r^n}^r^nRETURN res^a,0;

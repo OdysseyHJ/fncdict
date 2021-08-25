@@ -1,0 +1,1 @@
+5ШееёЗљ,920407,,^pHHV^pHIGH^c5^P^sLLV^pLOW^c5^P^P/LLV^pLOW^c5^P*100^a,0;

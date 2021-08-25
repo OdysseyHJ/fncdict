@@ -1,0 +1,1 @@
+netFlowIn_10D,133861,,a1^eBIGBUYMONEY1+BIGBUYMONEY2^sBIGSELLMONEY1^sBIGSELLMONEY2^a^na2^eREF^pa1^c1^P^a^na3^eREF^pa1^c2^P^a^na4^eREF^pa1^c3^P^a^na5^eREF^pa1^c4^P^a^na6^eREF^pa1^c5^P^a^na7^eREF^pa1^c6^P^a^na8^eREF^pa1^c7^P^a^na9^eREF^pa1^c8^P^a^na10^eREF^pa1^c9^P^a^nreturn a1+a2+a3+a4+a5+a6+a7+a8+a9+a10^a,2147430400

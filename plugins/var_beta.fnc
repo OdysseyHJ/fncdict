@@ -1,0 +1,1 @@
+VAR&BETA,625306,,n:^e250^a^r^nx:^e^pCLOSE^sCLOSE^b1^B^P/CLOSE^b1^B*100^a^r^nV_VAR:1.65*STD^px^cn^P^a^r^nr:^eINDEXC^a^r^ny:^e^pr^sr^b1^B^P/r^b1^B*100^a^r^nV_BETA:^pn*SUM^px*y^cn^P^sSUM^px^cn^P*SUM^py^cn^P^P/^pn*SUM^py*y^cn^P^sPOW^pSUM^py^cn^P^c2^P^P^a,2147430400;

@@ -1,0 +1,1 @@
+committee_300,134012,,IF^pCODE^e^e"399300" OR CODE^e^e"1B0300"  OR ^pCODE ^e^e "000300" AND MARKETTYPE ^e^e 16^P^P^r^n	{^r^n		//^r^n		b:^eINDEXDATA^p"883300"^c&BUYCOUNT^P^a^r^n		s:^eINDEXDATA^p"883300"^c&SELLCOUNT^P^a^r^n		RETURN ^pb^ss^P/^pb+s^P*100^a^r^n	}^r^nELSE^r^n	{^r^n		RETURN ^pBUYCOUNT^sSELLCOUNT^P/^pBUYCOUNT+SELLCOUNT^P*100^a^r^n	},-2147483648;

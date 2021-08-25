@@ -1,0 +1,1 @@
+ÍþÁ®Ö¸±ê^pWILLIAM'S %R^P,68321,N^e10^c2^c100^c1^rN1^e6^c2^c100^c1^r,WR1:100*^pHHV^pHIGH^cN^P^sCLOSE^P/^pHHV^pHIGH^cN^P^sLLV^pLOW^cN^P^P^a^r^nWR2:100*^pHHV^pHIGH^cN1^P^sCLOSE^P/^pHHV^pHIGH^cN1^P^sLLV^pLOW^cN1^P^P^a^r^na:20^a^r^nd:80^a,2147430400;

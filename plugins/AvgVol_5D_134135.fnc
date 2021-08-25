@@ -1,0 +1,1 @@
+AvgVol_5D,134135,,qq:MA^pVOL^c5^P ^r^n,2147430400;

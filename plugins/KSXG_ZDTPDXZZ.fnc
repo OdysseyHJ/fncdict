@@ -1,0 +1,1 @@
+Õðµ´Í»ÆÆ^s^s¶ÌÏß×·ÕÇ,461366,,HIGHh:^eHHV^pHIGH^c18^P^a^r^nH2:^eREF^pHIGHh^c1^P^a^r^nlowH:^eLLV^pLOW^c18^P^a^r^nl2:^eREF^plowH^c1^P^a^r^nz2:^e^pH2^sL2^P/L2^a^r^nzf2:^e^pREF^pCLOSE^c 1^P^sREF^pCLOSE^c19^P^P/REF^pCLOSE^c19^P^a^r^nSELECT z2<^e0.3 AND zf2>^s0.08 AND zf2<0.15 AND CLOSE>OPEN AND CLOSE>H2^a^r^n^r^n,2147430400;

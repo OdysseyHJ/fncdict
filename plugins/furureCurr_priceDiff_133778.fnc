@@ -1,0 +1,1 @@
+furureCurr_priceDiff,133778,,IF^pNEW^e^eNULL^P^r^n	RETURN NULL^a^r^nIF ^pSTRLEFT^pCODE^c 2^P^e^e"IH"^P^r^n{^r^n	RETURN NEW^sINDEXDATA^p"1B0016"^c&NEW^P^a^r^n}^r^nELSE IF^pSTRLEFT^pCODE^c 2^P^e^e"IC"^P^r^n{^r^n	RETURN NEW^sINDEXDATA^p"1B0905"^c&NEW^P^a^r^n}^r^nELSE IF^pSTRLEFT^pCODE^c 1^P^e^e"T"^P^r^n{^r^n	RETURN NULL^a^r^n}^r^nRETURN NEW^sINDEXDATA^p"399300"^c&NEW^P^a,0;

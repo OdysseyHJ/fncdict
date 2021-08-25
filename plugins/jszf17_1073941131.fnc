@@ -1,0 +1,1 @@
+¼´Ê±ÕÇ·ùÉÏÆÆ17%,1073941131,,Out :> "colorred"^a^r^n^pNEW^sPRE^P/PRE >^e 0.17 AND ^pNEW^b1^B^sPRE^P/PRE < 0.17,805249024;

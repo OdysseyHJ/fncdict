@@ -1,0 +1,1 @@
+สฃำเฦฺฯÞ,526803,,REMAINPERIOD^p&bond_dqr^P^a^r^n,0;

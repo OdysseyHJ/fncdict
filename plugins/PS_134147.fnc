@@ -1,0 +1,1 @@
+PS,134147,,^r^nqq^e^pCLOSE*ZGB^P/ZYYWSR *100^a^r^n,2147430400;

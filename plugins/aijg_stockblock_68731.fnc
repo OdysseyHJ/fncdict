@@ -1,0 +1,1 @@
+AI机构_个股板块,68731,,IF^pMARKETTYPE^e48^P^r^nA^ebkjgccbl^a^r^nELSE IF^pCODETYPE^e1 AND ^pMARKETTYPE ^e^e 16 OR MARKETTYPE ^e^e 32^P^P^r^nA^ejgccbl^a^r^nELSE ^r^nA^eNULL^a^r^nRETURN A^a,2147430400;

@@ -1,0 +1,1 @@
+均线比较,4164187,,a^e0^a^r^nb^e0^a^r^nd^e0^a^r^nIF^pCROSS^pMA^pCLOSE^c10^P^cCLOSE^P^P a^e1^a^r^nIF^pCROSS^pMA^pCLOSE^c20^P^cCLOSE^P^P b^e10^a^r^nIF^pCROSS^pMA^pCLOSE^c30^P^cCLOSE^P^P d^e100^a^r^ne^ea+b+d^a^r^nRETURN^pe^P^a;

@@ -1,0 +1,1 @@
+strategy_condition_stockSelect,2724,,Var1^eMONEY/VOL^a^r^nA^eSMA^pVar1^c5^c1^P^sSMA^pVar1^c55^c1^P^a ^r^nB^eSMA^p^pA^sSMA^pA^c5^c1^P^P^c5^c1^P^a ^r^nred^eCLOSE>MA^pCLOSE^c5^P AND A>REF^pA^c1^P AND B>REF^pB^c1^P^a^r^nSELECT red>REF^pred^c1^P^a^r^n^r^n,2147430400;

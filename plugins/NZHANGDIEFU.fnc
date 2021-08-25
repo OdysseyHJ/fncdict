@@ -1,0 +1,1 @@
+ÄêÕÇµø·ù,461346,,last_price^eCLOSE^b1^B^a^nIF^pISNULL^plast_price^P^P^n{^nlast_price^eqfqfxj^a^n}^n^nIF^pISNULL^plast_price^P^P^n{^nlast_price^efxj^a^n}^n^nret ^e ^pCLOSE^slast_price^P/last_price*100^a^nreturn ret^a,2147446784

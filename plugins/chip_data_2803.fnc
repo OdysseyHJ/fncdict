@@ -1,0 +1,1 @@
+chip_data,2803,,收盘获利:WINNER^pCLOSE^c&筹码分布^P*100^a^r^n光标获利:WINNER^pYVALUE^c&筹码分布^P*100^a^r^n平均成本:COST^p50^c&筹码分布^P^a^r^na^eCOST^p5^c&筹码分布^P^a^r^nb^eCOST^p95^c&筹码分布^P^a^r^ne^eCOST^p15^c&筹码分布^P^a^r^nd^eCOST^p85^c&筹码分布^P^a^r^n成本05:a^a^r^n成本95:b^a^r^n成本15:e^a^r^n成本85:d^a^r^n集中度90:^pb^sa^P/^pb+a^P*100.00^a^r^n集中度70:^pd^se^P/^pe+d^P*100.0,2147430400;

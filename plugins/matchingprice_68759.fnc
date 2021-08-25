@@ -1,0 +1,1 @@
+集合竞价撮合价,68759,,res^eOPEN^a^r^nIF^pISNULL^pOPEN^P^P^r^n{^r^n	res^eNEW^a^r^n}^r^nRETURN res^a,0;

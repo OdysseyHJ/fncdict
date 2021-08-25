@@ -1,0 +1,1 @@
+½×¶ÎµÍÁ¿·´µ¯,461365,,N:^e14^a^r^nTYP:^e^pHIGH+LOW+CLOSE^P/3^a^r^nCCI:^e^pTYP^sMA^pTYP^cN^P^P/^p0.015*AVEDEV^pTYP^cN^P^P^a^r^nSELECT CCI>REF^pCCI^c1^P AND COUNT^pV<MA^pV^c5^P*0.5^c3^P>0^a^r^n,2147430400;

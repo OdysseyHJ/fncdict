@@ -1,0 +1,1 @@
+AvgPrice_150D,134131,,a^eSUM^pMONEY^c150^P^a^r^nb^eSUM^pVOL^c150^P^a^r^nqq^ea/b^a^r^n,2147430400;

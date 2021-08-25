@@ -1,0 +1,1 @@
+mainBussinessInc_perShare,134144,,^r^nq1^e^p ZYYWSR ^sREP^p&ZYYWSR^c2^P^P/REP^p&ZYYWSR^c2^P*100^a^r^nq2^e^pREP^p&ZYYWSR^c2^P^sREP^p&ZYYWSR^c3^P^P/REP^p&ZYYWSR^c3^P*100^a^r^nq3^e^pREP^p&ZYYWSR^c3^P^sREP^p&ZYYWSR^c4^P^P/REP^p&ZYYWSR^c4^P*100^a^r^nRETURN ^pq1+q2+q3^P/3^a^r^n,2147430400;

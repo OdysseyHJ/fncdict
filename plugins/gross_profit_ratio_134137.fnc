@@ -1,0 +1,1 @@
+gross_profit_ratio,134137,,qq^e ^pZYYWSR^s ZYYWCB^P/ ZYYWSR*100^a//本公式为销售毛利率，最新一期报表的数据,2147430400;

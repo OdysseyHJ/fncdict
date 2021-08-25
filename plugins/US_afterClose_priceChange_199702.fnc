@@ -1,0 +1,1 @@
+US_afterClose_priceChange,199702,,ret^e^pSYS_PHXJ^sNEW^P/NEW*100^a^nRETURN ret^a,0

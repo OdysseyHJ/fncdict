@@ -1,0 +1,1 @@
+netProfit_ratio,134139,,^r^nqq^eJLR/ZYYWSR^a//最近一期报表的净利润率^r^n,2147430400;

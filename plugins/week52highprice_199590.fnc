@@ -1,0 +1,1 @@
+五十二周最高价,199590,,res:^eIF^pISNULL^pZGJ52Z^P OR ZGJ52Z<HIGH^c HIGH^c ZGJ52Z^P^a^nRETURN res^a,0

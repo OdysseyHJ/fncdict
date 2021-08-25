@@ -1,0 +1,1 @@
+手机主站市净率,723571,,IF ^pISNULL^pNEW^P^P^r^n RETURN PRE/^pGDQYHJ/ZGB^P^a^r^nELSE^r^n RETURN NEW/^pGDQYHJ/ZGB^P^a^r^n,0;

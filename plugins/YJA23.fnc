@@ -1,0 +1,1 @@
+外盘大于内盘50%,1077873114,,Out :> "colorred"^a^r^nOUTVOL/^pVOL^sOUTVOL^P>1.5^a,0;

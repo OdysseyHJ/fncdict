@@ -1,0 +1,1 @@
+指数平滑异同平均线,68317,SHORT^e12^c5^c40^c1^rLONG^e26^c10^c100^c1^rM^e9^c2^c40^c1^r,DIFF : EMA^pCLOSE^cSHORT^P ^s EMA^pCLOSE^cLONG^P^a^r^nDEA  : EMA^pDIFF^cM^P^a^r^nMACD : 2*^pDIFF^sDEA^P^a^r^nZero : 0^a,2147430400;

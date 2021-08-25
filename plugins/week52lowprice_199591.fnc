@@ -1,0 +1,1 @@
+五十二周最低价,199591,,lowprice:^eIF^pISNULL^pLOW^P OR LOW^e^e0^c ZDJ52Z^c LOW^P^a^nres:^eIF^pISNULL^pZDJ52Z^P OR ZDJ52Z>lowprice^c lowprice^c ZDJ52Z^P^a^nRETURN res^a,0

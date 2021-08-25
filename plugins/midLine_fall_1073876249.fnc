@@ -1,0 +1,1 @@
+midLine_fall,1073876249,,	n^e0^a^r^nIF ^pCROSS^pMA^pCLOSE^c30^P^cC^P^P^r^n	n^en+1^a^r^nIF ^pCROSS^pMA^pCLOSE^c60^P^cC^P^P^r^n	n^en+1^a^r^nIF ^pCROSS^pMA^pCLOSE^c90^P^cC^P^P^r^n	n^en+1^a^r^nRETURN 	n>^e2,2147430400;

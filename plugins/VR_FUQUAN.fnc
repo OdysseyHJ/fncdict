@@ -1,0 +1,1 @@
+VRÈÝÁ¿±ÈÂÊ,68325,N^e26^c5^c300^c1^r,LC:^eREF^pCLOSE^c1^P^a^r^nSUM^pIF^pCLOSE>LC^cVOL^c0^P^cN^P/^r^nSUM^pIF^pCLOSE<^eLC^cVOL^c0^P^cN^P*100^r^n,2147430400;

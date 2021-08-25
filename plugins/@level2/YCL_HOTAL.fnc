@@ -1,0 +1,1 @@
+云策略股票池_热点趋势判断,396170,,RETNUMBER ^e 0^a^r^nIF^pSHGZG<^e 300000000^P^r^n{^r^n	RETNUMBER ^e 1^a^r^n}^r^nZDF ^e ^pCLOSE ^s CLOSE^b1^B^P / CLOSE^b1^B^a^r^nIF^pRETNUMBER ^e^e 1^P^r^n{^r^n	IF^pZDF>^e0.05^P^r^n	{^r^n		RETNUMBER ^e 2^a^r^n	}^r^n	ELSE^r^n	IF^pZDF<^e^s0.03^P^r^n	{^r^n		RETNUMBER ^e 3^a^r^n	}^r^n}^r^nRETURN RETNUMBER^a,2147430400;

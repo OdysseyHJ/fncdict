@@ -1,0 +1,1 @@
+15·ÖÖÓ,461439,,p^eIF^pISNULL^pNEW^b15^B^P^cPRE^cNEW^b15^B^P^a^r^nRETURN ^pNEW^sp^P/^pp^P*100,536879104;

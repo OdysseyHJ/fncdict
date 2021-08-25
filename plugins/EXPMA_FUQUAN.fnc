@@ -1,0 +1,1 @@
+指数平滑移动平均线,68329,P1^e5^c1^c300^c1^rP2^e10^c1^c300^c1^rP3^e20^c1^c300^c1^rP4^e60^c1^c300^c1^r,MA1:EMA^pCLOSE^cP1^P^a^r^nMA2:EMA^pCLOSE^cP2^P^a^r^nMA3:EMA^pCLOSE^cP3^P^a^r^nMA4:EMA^pCLOSE^cP4^P^a,2147430400;

@@ -1,0 +1,1 @@
+dynamic_mainBussiness_profit,134140,,^r^nq^eZYYWLR^a//最近一期报表的主营业务利润^r^na^eGETREPTYPE^p&ZYYWLR^P^a^r^nqq^eq*4/a^a^r^n,2147430400;

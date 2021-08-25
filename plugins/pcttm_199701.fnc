@@ -1,0 +1,1 @@
+pcttm,199701,,IF^pMARKETTYPE ^e^e 48^P^n{^n    RET ^e HQZSZ / SYS_IND_JYXJJLLTTM^a^n}^nELSE^n{^n    v_price ^e IF^pISNULL^pNEW^P^cPRE^cNEW^P^a^n    RET ^e v_price * ZGB / SYS_XJJLL^a^n}^n^nRETURN IF^pISNULL^pRET^P^c NULL^c RET^P^a,0

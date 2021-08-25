@@ -1,0 +1,1 @@
+上市首日实际涨幅,199118,, val_ptc^eipo_ptc^a^r^n IF^pISNULL^pval_ptc^P^P^r^n {^r^n       val_ptc^e^pNEW^sOPEN^P/OPEN*100^a^r^n }^r^n RETURN val_ptc^a,0;

@@ -1,0 +1,1 @@
+redDays_count_10D,592898,,CLOSE^b0^B^a^r^nCOUNT^p^pZDMR^b^s1^B+BDMR^b^s1^B^P>^pZDMC^b^s1^B+BDMC^b^s1^B^P^c10^P ,2147430400;

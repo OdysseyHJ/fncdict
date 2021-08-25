@@ -1,0 +1,1 @@
+∆Ω≤Ω«‡‘∆,461497,,N:^e13^a^r^nVAR1:^e^pC^sMA^pC^cN^P^P/MA^pC^cN^P*100^a^r^nVAR2:^e100^sABS^pVAR1^P^a^r^nSELECT CROSS^pVAR2<90 AND C>MA^pC^cN^P*1.14 AND C<MA^pC^cN^P*1.18^c0.5^P^a^r^n,2147430400;

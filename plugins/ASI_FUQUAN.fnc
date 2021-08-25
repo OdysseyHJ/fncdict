@@ -1,0 +1,1 @@
+Õñ¶¯Éý½µÖ¸±ê,68328,,LC:^eREF^pCLOSE^c1^P^a^r^nAA:^eABS^pHIGH^sLC^P^a^r^nBB:^eABS^pLOW^sLC^P^a^r^nCC:^eABS^pHIGH^sREF^pLOW^c1^P^P^a^r^nDD:^eABS^pLC^sREF^pOPEN^c1^P^P^a^r^nR:^eIF^pAA>BB AND AA>CC^cAA+BB/2+DD/4^cIF^pBB>CC AND BB>AA^cBB+AA/2+DD/4^cCC+DD/4^P^P^a^r^nX:^e^pCLOSE^sLC+^pCLOSE^sOPEN^P/2+LC^sREF^pOPEN^c1^P^P^a^r^nSI1:^e16*X/R*MAX^pAA^cBB^P^a^r^nASI:SUM^pSI1^c0^P,2147430400;

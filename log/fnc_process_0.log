@@ -1,0 +1,741 @@
+2021-08-12 15:36:31.775000 PROCESS START
+2021-08-12 15:37:56.755000 PROCESS START
+2021-08-12 15:37:56.803000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-12 15:37:56.806000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-12 15:37:56.811000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-12 15:37:56.812000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-12 15:37:57.758000 GUI init complete! timeband:[0.9984064, 1.872012]
+2021-08-12 15:37:57.871000 hexin.ini error line:[数据项目]
+2021-08-12 15:37:57.876000 hexin.ini error line:221124=
+2021-08-12 15:37:57.879000 hexin.ini error line:221125=
+2021-08-12 15:37:57.879000 hexin.ini error line:221126=
+2021-08-12 15:37:57.879000 hexin.ini error line:221127=
+2021-08-12 15:37:57.886000 hexin.ini error line:
+2021-08-12 15:37:57.887000 hexin.ini error line:[config_version]
+2021-08-12 15:37:57.888000 hexin.ini error line:version=6.3.5.0fd11ce5_20210707
+2021-08-12 15:37:57.888000 hexin.ini error line:
+2021-08-12 15:37:57.888000 hexin.ini error line:
+2021-08-12 15:37:57.889000 fnc data init successsfully! timeband:[0.9984064, 1.9968128, 2.0124129]
+2021-08-12 15:40:16.955000 PROCESS START
+2021-08-12 15:40:16.992000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-12 15:40:16.993000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-12 15:40:16.993000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-12 15:40:16.994000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-12 15:40:17.224000 hexin.ini error line:[数据项目]
+2021-08-12 15:40:17.230000 hexin.ini error line:221124=
+2021-08-12 15:40:17.231000 hexin.ini error line:221125=
+2021-08-12 15:40:17.231000 hexin.ini error line:221126=
+2021-08-12 15:40:17.231000 hexin.ini error line:221127=
+2021-08-12 15:40:17.238000 hexin.ini error line:
+2021-08-12 15:40:17.239000 hexin.ini error line:[config_version]
+2021-08-12 15:40:17.239000 hexin.ini error line:version=6.3.5.0fd11ce5_20210707
+2021-08-12 15:40:17.239000 hexin.ini error line:
+2021-08-12 15:40:17.240000 hexin.ini error line:
+2021-08-12 15:40:17.240000 fnc data init successsfully! timeband:[1.0608068, 1.3260085, 1.3416086]
+2021-08-12 15:40:38.521000 PROCESS START
+2021-08-12 15:40:38.553000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-12 15:40:38.554000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-12 15:40:38.554000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-12 15:40:38.555000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-12 15:40:38.765000 hexin.ini error line:[数据项目]
+2021-08-12 15:40:38.774000 hexin.ini error line:221124=
+2021-08-12 15:40:38.774000 hexin.ini error line:221125=
+2021-08-12 15:40:38.775000 hexin.ini error line:221126=
+2021-08-12 15:40:38.775000 hexin.ini error line:221127=
+2021-08-12 15:40:38.782000 hexin.ini error line:
+2021-08-12 15:40:38.782000 hexin.ini error line:[config_version]
+2021-08-12 15:40:38.783000 hexin.ini error line:version=6.3.5.0fd11ce5_20210707
+2021-08-12 15:40:38.783000 hexin.ini error line:
+2021-08-12 15:40:38.784000 hexin.ini error line:
+2021-08-12 15:40:38.785000 fnc data init successsfully! timeband:[0.8580055, 1.092007, 1.1232072]
+PROCESS END2021-08-13 10:20:53.483000 PROCESS START
+2021-08-13 10:20:53.534000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-13 10:20:53.534000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-13 10:20:53.535000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-13 10:20:53.536000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-13 10:20:53.843000 hexin.ini error line:[数据项目]
+2021-08-13 10:20:53.849000 hexin.ini error line:221124=
+2021-08-13 10:20:53.849000 hexin.ini error line:221125=
+2021-08-13 10:20:53.849000 hexin.ini error line:221126=
+2021-08-13 10:20:53.849000 hexin.ini error line:221127=
+2021-08-13 10:20:53.854000 hexin.ini error line:
+2021-08-13 10:20:53.855000 hexin.ini error line:[config_version]
+2021-08-13 10:20:53.855000 hexin.ini error line:version=6.3.5.0fd11ce5_20210707
+2021-08-13 10:20:53.855000 hexin.ini error line:
+2021-08-13 10:20:53.855000 hexin.ini error line:
+2021-08-13 10:20:53.856000 fnc data init successsfully! timeband:[0.8112052, 1.1388073, 1.1544074]
+PROCESS END2021-08-13 10:19:18.993000 PROCESS START
+2021-08-13 10:19:19.022000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-13 10:19:19.022000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-13 10:19:19.023000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-13 10:19:19.023000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-13 10:19:19.182000 hexin.ini error line:[数据项目]
+2021-08-13 10:19:19.189000 hexin.ini error line:221124=
+2021-08-13 10:19:19.189000 hexin.ini error line:221125=
+2021-08-13 10:19:19.189000 hexin.ini error line:221126=
+2021-08-13 10:19:19.189000 hexin.ini error line:221127=
+2021-08-13 10:19:19.195000 hexin.ini error line:
+2021-08-13 10:19:19.195000 hexin.ini error line:[config_version]
+2021-08-13 10:19:19.195000 hexin.ini error line:version=6.3.5.0fd11ce5_20210707
+2021-08-13 10:19:19.195000 hexin.ini error line:
+2021-08-13 10:19:19.196000 hexin.ini error line:
+2021-08-13 10:19:19.196000 fnc data init successsfully! timeband:[0.7332047, 0.9204059, 0.936006]
+2021-08-13 10:19:19.446000 hexinUnitRef, error:zero str!
+2021-08-13 10:19:20.631000 wrong period:36864
+PROCESS END2021-08-13 17:02:37.852000 PROCESS START
+2021-08-13 17:02:37.884000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-13 17:02:37.885000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-13 17:02:37.886000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-13 17:02:37.886000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-13 17:02:38.141000 hexin.ini error line:[数据项目]
+2021-08-13 17:02:38.148000 hexin.ini error line:221124=
+2021-08-13 17:02:38.149000 hexin.ini error line:221125=
+2021-08-13 17:02:38.149000 hexin.ini error line:221126=
+2021-08-13 17:02:38.150000 hexin.ini error line:221127=
+2021-08-13 17:02:38.155000 hexin.ini error line:
+2021-08-13 17:02:38.155000 hexin.ini error line:[config_version]
+2021-08-13 17:02:38.156000 hexin.ini error line:version=6.3.5.0fd11ce5_20210707
+2021-08-13 17:02:38.156000 hexin.ini error line:
+2021-08-13 17:02:38.156000 hexin.ini error line:
+2021-08-13 17:02:38.157000 fnc data init successsfully! timeband:[0.8892057, 1.0764069, 1.092007]
+PROCESS END2021-08-13 17:02:49.865000 PROCESS START
+2021-08-13 17:02:49.901000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-13 17:02:49.902000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-13 17:02:49.902000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-13 17:02:49.902000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-13 17:02:50.092000 hexin.ini error line:[数据项目]
+2021-08-13 17:02:50.098000 hexin.ini error line:221124=
+2021-08-13 17:02:50.098000 hexin.ini error line:221125=
+2021-08-13 17:02:50.099000 hexin.ini error line:221126=
+2021-08-13 17:02:50.099000 hexin.ini error line:221127=
+2021-08-13 17:02:50.103000 hexin.ini error line:
+2021-08-13 17:02:50.103000 hexin.ini error line:[config_version]
+2021-08-13 17:02:50.104000 hexin.ini error line:version=6.3.5.0fd11ce5_20210707
+2021-08-13 17:02:50.104000 hexin.ini error line:
+2021-08-13 17:02:50.104000 hexin.ini error line:
+2021-08-13 17:02:50.105000 fnc data init successsfully! timeband:[0.8580055, 1.0764069, 1.092007]
+2021-08-13 17:02:50.376000 hexinUnitRef, error:zero str!
+2021-08-13 17:02:51.702000 wrong period:36864
+PROCESS END2021-08-13 18:16:06.357000 PROCESS START
+2021-08-13 18:16:06.389000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-13 18:16:06.389000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-13 18:16:06.389000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-13 18:16:06.390000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-13 18:16:06.927000 GUI init complete! timeband:[0.7644049, 1.2636081]
+2021-08-13 18:16:07.050000 hexin.ini error line:[数据项目]
+2021-08-13 18:16:07.055000 hexin.ini error line:221124=
+2021-08-13 18:16:07.056000 hexin.ini error line:221125=
+2021-08-13 18:16:07.056000 hexin.ini error line:221126=
+2021-08-13 18:16:07.056000 hexin.ini error line:221127=
+2021-08-13 18:16:07.061000 hexin.ini error line:
+2021-08-13 18:16:07.062000 hexin.ini error line:[config_version]
+2021-08-13 18:16:07.062000 hexin.ini error line:version=6.3.5.0fd11ce5_20210707
+2021-08-13 18:16:07.062000 hexin.ini error line:
+2021-08-13 18:16:07.062000 hexin.ini error line:
+2021-08-13 18:16:07.063000 fnc data init successsfully! timeband:[0.7644049, 1.3884089, 1.404009]
+2021-08-16 11:42:30.545000 PROCESS START
+2021-08-16 11:42:30.674000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-16 11:42:30.675000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-16 11:42:30.675000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-16 11:42:30.676000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-16 11:42:31.532000 GUI init complete! timeband:[1.248008, 2.0124129]
+2021-08-16 11:42:32.036000 hexin.ini error line:[数据项目]
+2021-08-16 11:42:32.044000 hexin.ini error line:221124=
+2021-08-16 11:42:32.045000 hexin.ini error line:221125=
+2021-08-16 11:42:32.046000 hexin.ini error line:221126=
+2021-08-16 11:42:32.046000 hexin.ini error line:221127=
+2021-08-16 11:42:32.054000 hexin.ini error line:
+2021-08-16 11:42:32.056000 hexin.ini error line:[config_version]
+2021-08-16 11:42:32.056000 hexin.ini error line:version=6.3.5.0fd11ce5_20210707
+2021-08-16 11:42:32.056000 hexin.ini error line:
+2021-08-16 11:42:32.057000 hexin.ini error line:
+2021-08-16 11:42:32.057000 fnc data init successsfully! timeband:[1.248008, 2.3712152, 2.4024154]
+2021-08-16 11:43:52.464000 PROCESS START
+2021-08-16 11:43:52.492000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-16 11:43:52.493000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-16 11:43:52.497000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-16 11:43:52.497000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-16 11:43:52.693000 hexin.ini error line:[数据项目]
+2021-08-16 11:43:52.699000 hexin.ini error line:221124=
+2021-08-16 11:43:52.702000 hexin.ini error line:221125=
+2021-08-16 11:43:52.703000 hexin.ini error line:221126=
+2021-08-16 11:43:52.705000 hexin.ini error line:221127=
+2021-08-16 11:43:52.712000 hexin.ini error line:
+2021-08-16 11:43:52.714000 hexin.ini error line:[config_version]
+2021-08-16 11:43:52.714000 hexin.ini error line:version=6.3.5.0fd11ce5_20210707
+2021-08-16 11:43:52.715000 hexin.ini error line:
+2021-08-16 11:43:52.717000 hexin.ini error line:
+2021-08-16 11:43:52.723000 fnc data init successsfully! timeband:[0.7488048, 0.9672062, 0.9984064]
+2021-08-16 11:44:12.098000 PROCESS START
+2021-08-16 11:44:12.134000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-16 11:44:12.135000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-16 11:44:12.148000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-16 11:44:12.148000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-16 11:44:12.320000 hexin.ini error line:[数据项目]
+2021-08-16 11:44:12.328000 hexin.ini error line:221124=
+2021-08-16 11:44:12.328000 hexin.ini error line:221125=
+2021-08-16 11:44:12.328000 hexin.ini error line:221126=
+2021-08-16 11:44:12.329000 hexin.ini error line:221127=
+2021-08-16 11:44:12.334000 hexin.ini error line:
+2021-08-16 11:44:12.335000 hexin.ini error line:[config_version]
+2021-08-16 11:44:12.335000 hexin.ini error line:version=6.3.5.0fd11ce5_20210707
+2021-08-16 11:44:12.335000 hexin.ini error line:
+2021-08-16 11:44:12.335000 hexin.ini error line:
+2021-08-16 11:44:12.336000 fnc data init successsfully! timeband:[0.8112052, 1.0296066, 1.0452067]
+2021-08-16 11:44:12.622000 hexinUnitRef, error:zero str!
+2021-08-16 11:44:13.957000 wrong period:36864
+PROCESS END2021-08-16 13:36:22.420000 PROCESS START
+2021-08-16 13:36:22.461000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-16 13:36:22.464000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-16 13:36:22.465000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-16 13:36:22.468000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-16 13:36:22.739000 hexin.ini error line:[数据项目]
+2021-08-16 13:36:22.746000 hexin.ini error line:221124=
+2021-08-16 13:36:22.746000 hexin.ini error line:221125=
+2021-08-16 13:36:22.747000 hexin.ini error line:221126=
+2021-08-16 13:36:22.748000 hexin.ini error line:221127=
+2021-08-16 13:36:22.756000 hexin.ini error line:
+2021-08-16 13:36:22.757000 hexin.ini error line:[config_version]
+2021-08-16 13:36:22.757000 hexin.ini error line:version=6.3.5.0fd11ce5_20210707
+2021-08-16 13:36:22.757000 hexin.ini error line:
+2021-08-16 13:36:22.759000 hexin.ini error line:
+2021-08-16 13:36:22.759000 fnc data init successsfully! timeband:[0.9516061, 1.2636081, 1.2948083]
+2021-08-16 13:36:23.124000 hexinUnitRef, error:zero str!
+2021-08-16 13:36:24.883000 wrong period:36864
+PROCESS END2021-08-20 12:52:40.043000 PROCESS START
+2021-08-20 12:52:40.125000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-20 12:52:40.475000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-20 12:52:40.489000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-20 12:52:40.599000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-20 12:52:40.600000 GUI init complete! timeband:[0.9672062, 1.4352092]
+2021-08-20 12:52:41.016000 hexin.ini error line:[数据项目]
+2021-08-20 12:52:41.023000 hexin.ini error line:221124=
+2021-08-20 12:52:41.023000 hexin.ini error line:221125=
+2021-08-20 12:52:41.023000 hexin.ini error line:221126=
+2021-08-20 12:52:41.024000 hexin.ini error line:221127=
+2021-08-20 12:52:41.030000 hexin.ini error line:
+2021-08-20 12:52:41.030000 hexin.ini error line:[config_version]
+2021-08-20 12:52:41.030000 hexin.ini error line:version=6.3.5.0fd11ce5_20210707
+2021-08-20 12:52:41.031000 hexin.ini error line:
+2021-08-20 12:52:41.031000 hexin.ini error line:
+2021-08-20 12:52:41.031000 fnc data init successsfully! timeband:[0.9672062, 1.8252117, 1.8252117]
+2021-08-20 13:29:34.679000 PROCESS START
+2021-08-20 13:29:35.238000 GUI init complete! timeband:[0.8580055, 1.3884089]
+2021-08-20 13:29:35.258000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-20 13:29:35.258000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-20 13:29:35.259000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-20 13:29:35.260000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-20 13:29:35.448000 hexin.ini error line:[数据项目]
+2021-08-20 13:29:35.453000 hexin.ini error line:221124=
+2021-08-20 13:29:35.454000 hexin.ini error line:221125=
+2021-08-20 13:29:35.455000 hexin.ini error line:221126=
+2021-08-20 13:29:35.456000 hexin.ini error line:221127=
+2021-08-20 13:29:35.461000 hexin.ini error line:
+2021-08-20 13:29:35.461000 hexin.ini error line:[config_version]
+2021-08-20 13:29:35.462000 hexin.ini error line:version=6.3.5.0fd11ce5_20210707
+2021-08-20 13:29:35.462000 hexin.ini error line:
+2021-08-20 13:29:35.462000 hexin.ini error line:
+2021-08-20 13:29:35.463000 fnc data init successsfully! timeband:[0.8580055, 1.6068103, 1.6224104]
+2021-08-20 13:29:45.884000 PROCESS START
+2021-08-20 13:29:45.915000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-20 13:29:45.916000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-20 13:29:45.917000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-20 13:29:45.918000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-20 13:29:46.113000 hexin.ini error line:[数据项目]
+2021-08-20 13:29:46.119000 hexin.ini error line:221124=
+2021-08-20 13:29:46.120000 hexin.ini error line:221125=
+2021-08-20 13:29:46.120000 hexin.ini error line:221126=
+2021-08-20 13:29:46.120000 hexin.ini error line:221127=
+2021-08-20 13:29:46.127000 hexin.ini error line:
+2021-08-20 13:29:46.127000 hexin.ini error line:[config_version]
+2021-08-20 13:29:46.128000 hexin.ini error line:version=6.3.5.0fd11ce5_20210707
+2021-08-20 13:29:46.128000 hexin.ini error line:
+2021-08-20 13:29:46.128000 hexin.ini error line:
+2021-08-20 13:29:46.129000 fnc data init successsfully! timeband:[0.8736056, 1.092007, 1.1232072]
+PROCESS END2021-08-20 13:48:37.277000 PROCESS START
+2021-08-20 13:48:37.308000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-20 13:48:37.310000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-20 13:48:37.310000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-20 13:48:37.311000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-20 13:48:37.476000 hexin.ini error line:[数据项目]
+2021-08-20 13:48:37.482000 hexin.ini error line:221124=
+2021-08-20 13:48:37.482000 hexin.ini error line:221125=
+2021-08-20 13:48:37.482000 hexin.ini error line:221126=
+2021-08-20 13:48:37.483000 hexin.ini error line:221127=
+2021-08-20 13:48:37.488000 hexin.ini error line:[config_version]
+2021-08-20 13:48:37.488000 hexin.ini error line:version=6.3.5.0fd11ce5_20210707
+2021-08-20 13:48:37.489000 fnc data init successsfully! timeband:[0.8736056, 1.0608068, 1.092007]
+2021-08-20 13:55:43.736000 PROCESS START
+2021-08-20 13:55:43.768000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-20 13:55:43.769000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-20 13:55:43.770000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-20 13:55:43.771000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-20 13:55:43.965000 fnc data init successsfully! timeband:[0.9048058, 1.1232072, 1.1388073]
+PROCESS END2021-08-20 13:59:02.661000 PROCESS START
+2021-08-20 13:59:02.690000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-20 13:59:02.691000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-20 13:59:02.692000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-20 13:59:02.692000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-20 13:59:02.885000 fnc data init successsfully! timeband:[0.8424054, 1.0608068, 1.0764069]
+2021-08-20 14:00:22.289000 PROCESS START
+2021-08-20 14:00:22.317000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-20 14:00:22.318000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-20 14:00:22.318000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-20 14:00:22.319000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-20 14:00:22.526000 fnc data init successsfully! timeband:[0.8424054, 1.0608068, 1.0764069]
+PROCESS END2021-08-20 14:01:30.327000 PROCESS START
+2021-08-20 14:01:30.356000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-20 14:01:30.356000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-20 14:01:30.358000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-20 14:01:30.359000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-20 14:01:30.563000 fnc data init successsfully! timeband:[0.9204059, 1.1544074, 1.1544074]
+PROCESS END2021-08-20 14:02:32.278000 PROCESS START
+2021-08-20 14:02:32.308000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-20 14:02:32.308000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-20 14:02:32.308000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-20 14:02:32.309000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-20 14:02:32.500000 fnc data init successsfully! timeband:[0.8424054, 1.0608068, 1.0764069]
+PROCESS END2021-08-20 14:03:19.336000 PROCESS START
+2021-08-20 14:03:19.387000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-20 14:03:19.412000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-20 14:03:19.413000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-20 14:03:19.414000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-20 14:03:38.989000 PROCESS START
+2021-08-20 14:03:39.023000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-20 14:03:39.024000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-20 14:03:39.029000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-20 14:03:39.030000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-20 14:03:39.217000 hexin.ini error line:[数据项目]
+2021-08-20 14:03:39.227000 hexin.ini error line:221124=
+2021-08-20 14:03:39.227000 hexin.ini error line:221125=
+2021-08-20 14:03:39.227000 hexin.ini error line:221126=
+2021-08-20 14:03:39.228000 hexin.ini error line:221127=
+2021-08-20 14:03:39.235000 hexin.ini error line:[config_version]
+2021-08-20 14:03:39.236000 hexin.ini error line:version=6.3.5.0fd11ce5_20210707
+2021-08-20 14:03:39.237000 fnc data init successsfully! timeband:[0.9204059, 1.1232072, 1.1544074]
+PROCESS END2021-08-20 14:04:03.714000 PROCESS START
+2021-08-20 14:04:03.742000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-20 14:04:03.743000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-20 14:04:03.743000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-20 14:04:03.743000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-20 14:04:03.922000 hexin.ini error line:[数据项目]
+2021-08-20 14:04:03.928000 hexin.ini error line:221124=
+2021-08-20 14:04:03.929000 hexin.ini error line:221125=
+2021-08-20 14:04:03.929000 hexin.ini error line:221126=
+2021-08-20 14:04:03.929000 hexin.ini error line:221127=
+2021-08-20 14:04:03.935000 hexin.ini error line:[config_version]
+2021-08-20 14:04:03.936000 hexin.ini error line:version=6.3.5.0fd11ce5_20210707
+2021-08-20 14:04:03.936000 fnc data init successsfully! timeband:[0.8892057, 1.092007, 1.1076071]
+PROCESS END2021-08-20 14:09:29.628000 PROCESS START
+2021-08-20 14:09:29.659000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-20 14:09:29.659000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-20 14:09:29.660000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-20 14:09:29.660000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-20 14:09:29.868000 hexin.ini error line:[数据项目]
+2021-08-20 14:09:29.874000 hexin.ini error line:221124=
+2021-08-20 14:09:29.875000 hexin.ini error line:221125=
+2021-08-20 14:09:29.875000 hexin.ini error line:221126=
+2021-08-20 14:09:29.875000 hexin.ini error line:221127=
+2021-08-20 14:09:29.881000 hexin.ini error line:[config_version]
+2021-08-20 14:09:29.881000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-20 14:09:29.881000 fnc data init successsfully! timeband:[0.8736056, 1.092007, 1.1232072]
+PROCESS END2021-08-20 14:21:30.396000 PROCESS START
+2021-08-20 14:21:30.441000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-20 14:21:30.443000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-20 14:21:30.447000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-20 14:21:30.448000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-20 14:21:30.647000 hexin.ini error line:[数据项目]
+2021-08-20 14:21:30.654000 hexin.ini error line:221124=
+2021-08-20 14:21:30.655000 hexin.ini error line:221125=
+2021-08-20 14:21:30.655000 hexin.ini error line:221126=
+2021-08-20 14:21:30.655000 hexin.ini error line:221127=
+2021-08-20 14:21:30.662000 hexin.ini error line:[config_version]
+2021-08-20 14:21:30.662000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-20 14:21:30.663000 fnc data init successsfully! timeband:[0.9672062, 1.2012077, 1.2168078]
+PROCESS END2021-08-20 14:43:53.654000 PROCESS START
+2021-08-20 14:43:53.686000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-20 14:43:53.687000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-20 14:43:53.687000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-20 14:43:53.688000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-20 14:43:53.884000 hexin.ini error line:[数据项目]
+2021-08-20 14:43:53.891000 hexin.ini error line:221124=
+2021-08-20 14:43:53.891000 hexin.ini error line:221125=
+2021-08-20 14:43:53.892000 hexin.ini error line:221126=
+2021-08-20 14:43:53.892000 hexin.ini error line:221127=
+2021-08-20 14:43:53.897000 hexin.ini error line:[config_version]
+2021-08-20 14:43:53.898000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-20 14:43:53.899000 fnc data init successsfully! timeband:[0.9516061, 1.1700075, 1.2012077]
+PROCESS END2021-08-20 14:44:10.325000 PROCESS START
+2021-08-20 14:44:10.355000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-20 14:44:10.356000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-20 14:44:10.357000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-20 14:44:10.357000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-20 14:44:10.538000 hexin.ini error line:[数据项目]
+2021-08-20 14:44:10.564000 hexin.ini error line:221124=
+2021-08-20 14:44:10.565000 hexin.ini error line:221125=
+2021-08-20 14:44:10.567000 hexin.ini error line:221126=
+2021-08-20 14:44:10.568000 hexin.ini error line:221127=
+2021-08-20 14:44:10.580000 hexin.ini error line:[config_version]
+2021-08-20 14:44:10.584000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-20 14:44:10.585000 fnc data init successsfully! timeband:[0.8424054, 1.0452067, 1.092007]
+PROCESS END2021-08-20 14:49:12.965000 PROCESS START
+2021-08-20 14:49:13 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-20 14:49:13.001000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-20 14:49:13.001000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-20 14:49:13.002000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-20 14:49:13.192000 hexin.ini error line:[数据项目]
+2021-08-20 14:49:13.198000 hexin.ini error line:221124=
+2021-08-20 14:49:13.199000 hexin.ini error line:221125=
+2021-08-20 14:49:13.199000 hexin.ini error line:221126=
+2021-08-20 14:49:13.200000 hexin.ini error line:221127=
+2021-08-20 14:49:13.207000 hexin.ini error line:[config_version]
+2021-08-20 14:49:13.208000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-20 14:49:13.208000 fnc data init successsfully! timeband:[0.936006, 1.1388073, 1.1544074]
+2021-08-20 14:49:36.933000 PROCESS START
+2021-08-20 14:49:36.966000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-20 14:49:36.967000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-20 14:49:36.967000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-20 14:49:36.968000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-20 14:49:37.198000 hexin.ini error line:[数据项目]
+2021-08-20 14:49:37.206000 hexin.ini error line:221124=
+2021-08-20 14:49:37.206000 hexin.ini error line:221125=
+2021-08-20 14:49:37.207000 hexin.ini error line:221126=
+2021-08-20 14:49:37.207000 hexin.ini error line:221127=
+2021-08-20 14:49:37.218000 hexin.ini error line:[config_version]
+2021-08-20 14:49:37.219000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-20 14:49:37.219000 fnc data init successsfully! timeband:[0.936006, 1.1700075, 1.1856076]
+2021-08-20 14:49:57.275000 PROCESS START
+2021-08-20 14:49:57.306000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-20 14:49:57.306000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-20 14:49:57.307000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-20 14:49:57.308000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-20 14:49:57.505000 hexin.ini error line:[数据项目]
+2021-08-20 14:49:57.512000 hexin.ini error line:221124=
+2021-08-20 14:49:57.512000 hexin.ini error line:221125=
+2021-08-20 14:49:57.513000 hexin.ini error line:221126=
+2021-08-20 14:49:57.513000 hexin.ini error line:221127=
+2021-08-20 14:49:57.535000 hexin.ini error line:[config_version]
+2021-08-20 14:49:57.539000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-20 14:49:57.540000 fnc data init successsfully! timeband:[0.8892057, 1.1076071, 1.1544074]
+PROCESS END2021-08-20 14:53:05.933000 PROCESS START
+2021-08-20 14:53:05.964000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-20 14:53:05.964000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-20 14:53:05.966000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-20 14:53:05.967000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-20 14:53:06.173000 hexin.ini error line:[数据项目]
+2021-08-20 14:53:06.180000 hexin.ini error line:221124=
+2021-08-20 14:53:06.181000 hexin.ini error line:221125=
+2021-08-20 14:53:06.181000 hexin.ini error line:221126=
+2021-08-20 14:53:06.181000 hexin.ini error line:221127=
+2021-08-20 14:53:06.189000 hexin.ini error line:[config_version]
+2021-08-20 14:53:06.190000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-20 14:53:06.192000 fnc data init successsfully! timeband:[0.8736056, 1.1076071, 1.1388073]
+PROCESS END2021-08-20 17:32:29.033000 PROCESS START
+2021-08-20 17:32:29.066000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-20 17:32:29.067000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-20 17:32:29.067000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-20 17:32:29.068000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-20 17:32:29.257000 hexin.ini error line:[数据项目]
+2021-08-20 17:32:29.263000 hexin.ini error line:221124=
+2021-08-20 17:32:29.264000 hexin.ini error line:221125=
+2021-08-20 17:32:29.264000 hexin.ini error line:221126=
+2021-08-20 17:32:29.264000 hexin.ini error line:221127=
+2021-08-20 17:32:29.271000 hexin.ini error line:[config_version]
+2021-08-20 17:32:29.272000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-20 17:32:29.272000 fnc data init successsfully! timeband:[0.9204059, 1.1388073, 1.1700075]
+PROCESS END2021-08-25 18:23:58.269000 PROCESS START
+2021-08-25 18:23:58.364000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-25 18:23:58.365000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-25 18:23:58.366000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-25 18:23:58.367000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-25 18:23:58.976000 GUI init complete! timeband:[1.1388073, 1.7628113]
+2021-08-25 18:23:59.478000 hexin.ini error line:[数据项目]
+2021-08-25 18:23:59.486000 hexin.ini error line:221124=
+2021-08-25 18:23:59.486000 hexin.ini error line:221125=
+2021-08-25 18:23:59.486000 hexin.ini error line:221126=
+2021-08-25 18:23:59.487000 hexin.ini error line:221127=
+2021-08-25 18:23:59.494000 hexin.ini error line:[config_version]
+2021-08-25 18:23:59.494000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-25 18:23:59.495000 fnc data init successsfully! timeband:[1.1388073, 2.1996141, 2.2308143]
+2021-08-25 18:33:48.576000 PROCESS START
+2021-08-25 18:33:49.044000 GUI init complete! timeband:[0.9048058, 1.3416086]
+2021-08-25 18:33:49.065000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-25 18:33:49.065000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-25 18:33:49.066000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-25 18:33:49.066000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-25 18:33:49.255000 hexin.ini error line:[数据项目]
+2021-08-25 18:33:49.263000 hexin.ini error line:221124=
+2021-08-25 18:33:49.263000 hexin.ini error line:221125=
+2021-08-25 18:33:49.264000 hexin.ini error line:221126=
+2021-08-25 18:33:49.264000 hexin.ini error line:221127=
+2021-08-25 18:33:49.271000 hexin.ini error line:[config_version]
+2021-08-25 18:33:49.271000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-25 18:33:49.272000 fnc data init successsfully! timeband:[0.9048058, 1.5756101, 1.6068103]
+2021-08-25 18:34:00.499000 PROCESS START
+2021-08-25 18:34:00.957000 GUI init complete! timeband:[0.9204059, 1.3884089]
+2021-08-25 18:34:00.976000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-25 18:34:00.977000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-25 18:34:00.977000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-25 18:34:00.978000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-25 18:34:01.178000 hexin.ini error line:[数据项目]
+2021-08-25 18:34:01.185000 hexin.ini error line:221124=
+2021-08-25 18:34:01.186000 hexin.ini error line:221125=
+2021-08-25 18:34:01.186000 hexin.ini error line:221126=
+2021-08-25 18:34:01.187000 hexin.ini error line:221127=
+2021-08-25 18:34:01.192000 hexin.ini error line:[config_version]
+2021-08-25 18:34:01.193000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-25 18:34:01.193000 fnc data init successsfully! timeband:[0.9204059, 1.5912102, 1.6224104]
+2021-08-25 18:36:30.135000 PROCESS START
+2021-08-25 18:36:30.805000 GUI init complete! timeband:[1.0140065, 1.56001]
+2021-08-25 18:36:30.826000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-25 18:36:30.827000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-25 18:36:30.827000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-25 18:36:30.827000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-25 18:36:31.019000 hexin.ini error line:[数据项目]
+2021-08-25 18:36:31.027000 hexin.ini error line:221124=
+2021-08-25 18:36:31.027000 hexin.ini error line:221125=
+2021-08-25 18:36:31.028000 hexin.ini error line:221126=
+2021-08-25 18:36:31.028000 hexin.ini error line:221127=
+2021-08-25 18:36:31.035000 hexin.ini error line:[config_version]
+2021-08-25 18:36:31.035000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-25 18:36:31.036000 fnc data init successsfully! timeband:[1.0140065, 1.8096116, 1.8252117]
+2021-08-25 18:36:56.711000 PROCESS START
+2021-08-25 18:36:57.340000 GUI init complete! timeband:[1.0140065, 1.4976096]
+2021-08-25 18:36:57.360000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-25 18:36:57.361000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-25 18:36:57.362000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-25 18:36:57.363000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-25 18:36:57.569000 hexin.ini error line:[数据项目]
+2021-08-25 18:36:57.576000 hexin.ini error line:221124=
+2021-08-25 18:36:57.577000 hexin.ini error line:221125=
+2021-08-25 18:36:57.577000 hexin.ini error line:221126=
+2021-08-25 18:36:57.577000 hexin.ini error line:221127=
+2021-08-25 18:36:57.584000 hexin.ini error line:[config_version]
+2021-08-25 18:36:57.585000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-25 18:36:57.585000 fnc data init successsfully! timeband:[1.0140065, 1.7316111, 1.7472112]
+2021-08-25 18:37:35.959000 PROCESS START
+2021-08-25 18:37:36.494000 GUI init complete! timeband:[0.9672062, 1.4976096]
+2021-08-25 18:37:36.497000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-25 18:37:36.497000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-25 18:37:36.498000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-25 18:37:36.498000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-25 18:37:36.686000 hexin.ini error line:[数据项目]
+2021-08-25 18:37:36.694000 hexin.ini error line:221124=
+2021-08-25 18:37:36.694000 hexin.ini error line:221125=
+2021-08-25 18:37:36.695000 hexin.ini error line:221126=
+2021-08-25 18:37:36.695000 hexin.ini error line:221127=
+2021-08-25 18:37:36.701000 hexin.ini error line:[config_version]
+2021-08-25 18:37:36.702000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-25 18:37:36.702000 fnc data init successsfully! timeband:[0.9672062, 1.7004109, 1.716011]
+2021-08-25 18:41:20.503000 PROCESS START
+2021-08-25 18:41:21.185000 GUI init complete! timeband:[1.0296066, 1.6068103]
+2021-08-25 18:41:21.195000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-25 18:41:21.195000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-25 18:41:21.196000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-25 18:41:21.196000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-25 18:41:21.413000 hexin.ini error line:[数据项目]
+2021-08-25 18:41:21.420000 hexin.ini error line:221124=
+2021-08-25 18:41:21.421000 hexin.ini error line:221125=
+2021-08-25 18:41:21.421000 hexin.ini error line:221126=
+2021-08-25 18:41:21.421000 hexin.ini error line:221127=
+2021-08-25 18:41:21.428000 hexin.ini error line:[config_version]
+2021-08-25 18:41:21.428000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-25 18:41:21.429000 fnc data init successsfully! timeband:[1.0296066, 1.8564119, 1.8876121]
+2021-08-25 18:41:53.098000 PROCESS START
+2021-08-25 18:41:53.620000 GUI init complete! timeband:[0.9672062, 1.4196091]
+2021-08-25 18:41:53.642000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-25 18:41:53.642000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-25 18:41:53.643000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-25 18:41:53.643000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-25 18:41:53.827000 hexin.ini error line:[数据项目]
+2021-08-25 18:41:53.833000 hexin.ini error line:221124=
+2021-08-25 18:41:53.833000 hexin.ini error line:221125=
+2021-08-25 18:41:53.834000 hexin.ini error line:221126=
+2021-08-25 18:41:53.834000 hexin.ini error line:221127=
+2021-08-25 18:41:53.839000 hexin.ini error line:[config_version]
+2021-08-25 18:41:53.839000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-25 18:41:53.840000 fnc data init successsfully! timeband:[0.9672062, 1.6224104, 1.6380105]
+2021-08-25 18:43:35.642000 PROCESS START
+2021-08-25 18:43:36.217000 GUI init complete! timeband:[0.9516061, 1.4196091]
+2021-08-25 18:43:36.234000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-25 18:43:36.234000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-25 18:43:36.235000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-25 18:43:36.235000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-25 18:43:36.420000 hexin.ini error line:[数据项目]
+2021-08-25 18:43:36.426000 hexin.ini error line:221124=
+2021-08-25 18:43:36.426000 hexin.ini error line:221125=
+2021-08-25 18:43:36.427000 hexin.ini error line:221126=
+2021-08-25 18:43:36.427000 hexin.ini error line:221127=
+2021-08-25 18:43:36.433000 hexin.ini error line:[config_version]
+2021-08-25 18:43:36.433000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-25 18:43:36.433000 fnc data init successsfully! timeband:[0.9516061, 1.6380105, 1.6536106]
+2021-08-25 18:45:41 PROCESS START
+2021-08-25 18:45:41.665000 GUI init complete! timeband:[1.0296066, 1.6068103]
+2021-08-25 18:45:41.690000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-25 18:45:41.690000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-25 18:45:41.691000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-25 18:45:41.691000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-25 18:45:41.885000 hexin.ini error line:[数据项目]
+2021-08-25 18:45:41.893000 hexin.ini error line:221124=
+2021-08-25 18:45:41.893000 hexin.ini error line:221125=
+2021-08-25 18:45:41.894000 hexin.ini error line:221126=
+2021-08-25 18:45:41.894000 hexin.ini error line:221127=
+2021-08-25 18:45:41.901000 hexin.ini error line:[config_version]
+2021-08-25 18:45:41.902000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-25 18:45:41.902000 fnc data init successsfully! timeband:[1.0296066, 1.8096116, 1.8408118]
+2021-08-25 18:45:49.112000 PROCESS START
+2021-08-25 18:45:49.170000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-25 18:45:49.170000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-25 18:45:49.171000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-25 18:45:49.171000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-25 18:45:49.821000 GUI init complete! timeband:[1.0452067, 1.4976096]
+2021-08-25 18:45:49.973000 hexin.ini error line:[数据项目]
+2021-08-25 18:45:49.981000 hexin.ini error line:221124=
+2021-08-25 18:45:49.981000 hexin.ini error line:221125=
+2021-08-25 18:45:49.982000 hexin.ini error line:221126=
+2021-08-25 18:45:49.982000 hexin.ini error line:221127=
+2021-08-25 18:45:49.990000 hexin.ini error line:[config_version]
+2021-08-25 18:45:49.991000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-25 18:45:49.993000 fnc data init successsfully! timeband:[1.0140065, 1.6692107, 1.6848108]
+2021-08-25 18:46:04.354000 PROCESS START
+2021-08-25 18:46:04.996000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-25 18:46:05.103000 GUI init complete! timeband:[0.9672062, 1.5132097]
+2021-08-25 18:46:05.103000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-25 18:46:05.105000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-25 18:46:05.105000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-25 18:46:05.311000 hexin.ini error line:[数据项目]
+2021-08-25 18:46:05.320000 hexin.ini error line:221124=
+2021-08-25 18:46:05.320000 hexin.ini error line:221125=
+2021-08-25 18:46:05.320000 hexin.ini error line:221126=
+2021-08-25 18:46:05.321000 hexin.ini error line:221127=
+2021-08-25 18:46:05.327000 hexin.ini error line:[config_version]
+2021-08-25 18:46:05.328000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-25 18:46:05.328000 fnc data init successsfully! timeband:[0.9672062, 1.7472112, 1.7628113]
+2021-08-25 18:50:59.539000 PROCESS START
+2021-08-25 18:51:00.341000 GUI init complete! timeband:[1.0764069, 1.6536106]
+2021-08-25 18:51:00.356000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-25 18:51:00.357000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-25 18:51:00.357000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-25 18:51:00.358000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-25 18:51:00.562000 hexin.ini error line:[数据项目]
+2021-08-25 18:51:00.569000 hexin.ini error line:221124=
+2021-08-25 18:51:00.571000 hexin.ini error line:221125=
+2021-08-25 18:51:00.571000 hexin.ini error line:221126=
+2021-08-25 18:51:00.572000 hexin.ini error line:221127=
+2021-08-25 18:51:00.579000 hexin.ini error line:[config_version]
+2021-08-25 18:51:00.580000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-25 18:51:00.580000 fnc data init successsfully! timeband:[1.0764069, 1.9032122, 1.9344124]
+2021-08-25 18:51:17.499000 PROCESS START
+2021-08-25 18:51:18.171000 GUI init complete! timeband:[1.1388073, 1.6848108]
+2021-08-25 18:51:18.188000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-25 18:51:18.188000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-25 18:51:18.188000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-25 18:51:18.189000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-25 18:51:18.406000 hexin.ini error line:[数据项目]
+2021-08-25 18:51:18.413000 hexin.ini error line:221124=
+2021-08-25 18:51:18.414000 hexin.ini error line:221125=
+2021-08-25 18:51:18.414000 hexin.ini error line:221126=
+2021-08-25 18:51:18.414000 hexin.ini error line:221127=
+2021-08-25 18:51:18.422000 hexin.ini error line:[config_version]
+2021-08-25 18:51:18.423000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-25 18:51:18.423000 fnc data init successsfully! timeband:[1.1388073, 1.9344124, 1.9500125]
+2021-08-25 18:52:35.268000 PROCESS START
+2021-08-25 18:52:35.957000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-25 18:52:35.957000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-25 18:52:35.958000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-25 18:52:35.958000 GUI init complete! timeband:[1.0452067, 1.6224104]
+2021-08-25 18:52:35.958000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-25 18:52:35.958000 GUI init complete! timeband:[1.0452067, 1.6224104]
+2021-08-25 18:52:35.959000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-25 18:52:36.179000 hexin.ini error line:[数据项目]
+2021-08-25 18:52:36.187000 hexin.ini error line:221124=
+2021-08-25 18:52:36.188000 hexin.ini error line:221125=
+2021-08-25 18:52:36.189000 hexin.ini error line:221126=
+2021-08-25 18:52:36.189000 hexin.ini error line:221127=
+2021-08-25 18:52:36.196000 hexin.ini error line:[config_version]
+2021-08-25 18:52:36.197000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-25 18:52:36.197000 fnc data init successsfully! timeband:[1.0452067, 1.8408118, 1.872012]
+2021-08-25 18:55:01.518000 PROCESS START
+2021-08-25 18:55:02.298000 GUI init complete! timeband:[0.9984064, 1.5912102]
+2021-08-25 18:55:02.314000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-25 18:55:02.315000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-25 18:55:02.316000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-25 18:55:02.316000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-25 18:55:02.515000 hexin.ini error line:[数据项目]
+2021-08-25 18:55:02.524000 hexin.ini error line:221124=
+2021-08-25 18:55:02.525000 hexin.ini error line:221125=
+2021-08-25 18:55:02.525000 hexin.ini error line:221126=
+2021-08-25 18:55:02.525000 hexin.ini error line:221127=
+2021-08-25 18:55:02.532000 hexin.ini error line:[config_version]
+2021-08-25 18:55:02.533000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-25 18:55:02.533000 fnc data init successsfully! timeband:[0.9984064, 1.8096116, 1.8252117]
+2021-08-25 18:55:21.636000 PROCESS START
+2021-08-25 18:55:22.200000 GUI init complete! timeband:[0.9828063, 1.4664094]
+2021-08-25 18:55:22.204000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-25 18:55:22.204000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-25 18:55:22.205000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-25 18:55:22.205000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-25 18:55:22.390000 hexin.ini error line:[数据项目]
+2021-08-25 18:55:22.398000 hexin.ini error line:221124=
+2021-08-25 18:55:22.398000 hexin.ini error line:221125=
+2021-08-25 18:55:22.398000 hexin.ini error line:221126=
+2021-08-25 18:55:22.399000 hexin.ini error line:221127=
+2021-08-25 18:55:22.405000 hexin.ini error line:[config_version]
+2021-08-25 18:55:22.405000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-25 18:55:22.406000 fnc data init successsfully! timeband:[0.9828063, 1.6536106, 1.6692107]
+2021-08-25 18:56:32.373000 PROCESS START
+2021-08-25 18:56:32.961000 GUI init complete! timeband:[1.0140065, 1.4820095]
+2021-08-25 18:56:32.968000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-25 18:56:32.968000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-25 18:56:32.968000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-25 18:56:32.969000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-25 18:56:33.170000 hexin.ini error line:[数据项目]
+2021-08-25 18:56:33.177000 hexin.ini error line:221124=
+2021-08-25 18:56:33.178000 hexin.ini error line:221125=
+2021-08-25 18:56:33.178000 hexin.ini error line:221126=
+2021-08-25 18:56:33.178000 hexin.ini error line:221127=
+2021-08-25 18:56:33.185000 hexin.ini error line:[config_version]
+2021-08-25 18:56:33.185000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-25 18:56:33.186000 fnc data init successsfully! timeband:[1.0140065, 1.7004109, 1.716011]
+2021-08-25 19:00:25.381000 PROCESS START
+2021-08-25 19:00:26.015000 GUI init complete! timeband:[1.1388073, 1.6068103]
+2021-08-25 19:00:26.034000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-25 19:00:26.034000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-25 19:00:26.035000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-25 19:00:26.035000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-25 19:00:26.248000 hexin.ini error line:[数据项目]
+2021-08-25 19:00:26.255000 hexin.ini error line:221124=
+2021-08-25 19:00:26.256000 hexin.ini error line:221125=
+2021-08-25 19:00:26.256000 hexin.ini error line:221126=
+2021-08-25 19:00:26.257000 hexin.ini error line:221127=
+2021-08-25 19:00:26.266000 hexin.ini error line:[config_version]
+2021-08-25 19:00:26.269000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-25 19:00:26.270000 fnc data init successsfully! timeband:[1.1388073, 1.8564119, 1.8876121]
+2021-08-25 19:28:34.554000 PROCESS START
+2021-08-25 19:28:35.717000 GUI init complete! timeband:[0.156001, 0.9984064]
+2021-08-25 19:28:35.734000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-25 19:28:35.734000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-25 19:28:35.735000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-25 19:28:35.736000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-25 19:28:36.278000 hexin.ini error line:[数据项目]
+2021-08-25 19:28:36.285000 hexin.ini error line:221124=
+2021-08-25 19:28:36.285000 hexin.ini error line:221125=
+2021-08-25 19:28:36.286000 hexin.ini error line:221126=
+2021-08-25 19:28:36.286000 hexin.ini error line:221127=
+2021-08-25 19:28:36.294000 hexin.ini error line:[config_version]
+2021-08-25 19:28:36.295000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-25 19:28:36.296000 fnc data init successsfully! timeband:[0.156001, 1.4196091, 1.4508093]
+2021-08-25 19:29:45.059000 PROCESS START
+2021-08-25 19:29:45.104000 read fnc failed, fnc=.\plugins\closeauctionmoney_199710.fnc
+2021-08-25 19:29:45.104000 read fnc failed, fnc=.\plugins\closeauctionunmatchedmoney_199712.fnc
+2021-08-25 19:29:45.116000 read fnc failed, fnc=.\plugins\closeauctionunmatchedvol_199713.fnc
+2021-08-25 19:29:45.117000 read fnc failed, fnc=.\plugins\closeauctionvol_199711.fnc
+2021-08-25 19:29:46.343000 GUI init complete! timeband:[0.2028013, 1.092007]
+2021-08-25 19:29:46.549000 hexin.ini error line:[数据项目]
+2021-08-25 19:29:46.557000 hexin.ini error line:221124=
+2021-08-25 19:29:46.557000 hexin.ini error line:221125=
+2021-08-25 19:29:46.558000 hexin.ini error line:221126=
+2021-08-25 19:29:46.558000 hexin.ini error line:221127=
+2021-08-25 19:29:46.567000 hexin.ini error line:[config_version]
+2021-08-25 19:29:46.568000 hexin.ini error line:version=6.3.5.232877d3_20210810
+2021-08-25 19:29:46.571000 fnc data init successsfully! timeband:[0.2028013, 1.2948083, 1.3260085]

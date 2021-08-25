@@ -1,0 +1,1 @@
+VOL5DAY,199707,,validCount:^eCOUNT^pVOL^c6^P^s1^a^nvol5day:^e^pSUM^pVOL^c6^P ^s VOL^P / validCount*5^a^nreturn vol5day^a,1073823744

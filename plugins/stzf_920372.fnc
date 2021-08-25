@@ -1,0 +1,1 @@
+ÊµÌוÕÇ·ש,920372,,RET^eNULL^a^nIF^pOPEN !^e 0^P^n{^nRET^e^pNEW^sOPEN^P/ABS^pOPEN^P*100^a^n}^nRETURN RET^a,0

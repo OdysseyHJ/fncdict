@@ -1,0 +1,1 @@
+时间价值,723641,,IF^pputcall ^e^e "C"^P^r^nRETURN NEW^sMAX^p0^cINDEXDATA^pbdzqdm^c&NEW^P^sqqxqj^P^a^r^n^r^nELSE^r^nRETURN NEW^sMAX^p0^cqqxqj^sINDEXDATA^pbdzqdm^c&NEW^P^P^a,0;

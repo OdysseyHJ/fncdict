@@ -1,0 +1,1 @@
+涨跌家数比,134367,,// 为了排序，涨在前跌在后^r^nIF ^pISNULL^pRISECOUNT ^P OR ISNULL^pFALLCOUNT^P^P^r^n{^r^n	RETURN NULL^a^r^n}^r^n^r^nret ^e 0.0^a^r^nIF ^pRISECOUNT > 0^P^r^n{^r^n	ret ^e RISECOUNT ^a^r^n}^r^nELSE IF ^pFALLCOUNT> 0^P^r^n{^r^n	ret ^e ^sFALLCOUNT^a^r^n}^r^n^r^nRETURN ret + 0.0^a,0;

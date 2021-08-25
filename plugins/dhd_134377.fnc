@@ -1,0 +1,1 @@
+´òºÍµã,134377,,IF^pISNULL^pNEW^P ^e^e 1 OR ISNULL^pVOL^P ^e^e 1^P^r^nRETURN 0^a^r^nIF^pputcall ^e^e "C"^P^r^nRETURN qqxqj+NEW^a^r^nELSE^r^nRETURN qqxqj^sNEW^a,0;

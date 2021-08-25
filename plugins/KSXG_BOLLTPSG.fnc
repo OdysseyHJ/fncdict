@@ -1,0 +1,1 @@
+BOLLÍ»ÆÆÉÏ¹ì^s^s¶ÌÏß×·ÕÇ,461360,,MID:^eMA^pCLOSE^c20^P^a^r^nUPPER:^eMID + 2*STD^pCLOSE^c20^P^a^r^nLOWER:^eMID ^s 2*STD^pCLOSE^c20^P^a^r^nSELECT CROSS^pC^cREF^pUPPER^c1^P^P^a^r^n^r^n,2147430400;

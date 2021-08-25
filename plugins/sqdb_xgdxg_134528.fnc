@@ -1,0 +1,1 @@
+神奇电波相关度选股,134528,,LC:^eREF^pCLOSE^c1^P^a^nAR:^eSUM^pHIGH^sOPEN^c26^P/SUM^pOPEN^sLOW^c26^P*100^a^nVarb:^eSMA^pMAX^pCLOSE^sLC^c0^P^c7^c1^P/SMA^pABS^pCLOSE^sLC^P^c7^c1^P*100^a^nVarc:^eSMA^pMAX^pCLOSE^sLC^c0^P^c13^c1^P/SMA^pABS^pCLOSE^sLC^P^c13^c1^P*100^a^nVard:^eBARSCOUNT^pCLOSE^P^a^nselect ^pVarb< 95 AND Varc< 95 AND Vard> 50 AND AR<195^P^a,-2147483648;

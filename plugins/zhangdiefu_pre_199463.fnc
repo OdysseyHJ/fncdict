@@ -1,0 +1,1 @@
+зђЪееЧЕјЗљ,199463,,RETURN ^pNEW^sPRE^P/ABS^pPRE^P*100^a,0;

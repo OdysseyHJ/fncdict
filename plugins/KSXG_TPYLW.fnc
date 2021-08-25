@@ -1,0 +1,1 @@
+Í»ÆÆÑ¹Á¦Î»,461504,,DIF:^eEMA^pC^c12^P^sEMA^pC^c26^P^a^r^nDEA:^eEMA^pDIF^c9^P^a^r^nMACD:^eDIF^sDEA^a^r^nSX:^eCROSS^pDEA^cDIF^P^a^r^nTJ1:^eC>^eREF^pC^c1^P*1.04^a^r^nTJ2:^eMACD>^e0^a^r^nSELECT CROSS^pC^cREF^pMAX^pC^cO^P^cBARSLAST^pSX^P^P^PAND TJ1 AND TJ2^a^r^n,2147430400;

@@ -1,0 +1,1 @@
+³¬¼¶¶ÌÏß²¨¶Î,461506,,t1:^eREF^p^pC^sREF^pC^c1^P^P/REF^pC^c1^P*100^c2^P>5^a^r^nt2:^eCOUNT^pL>^eREF^pMIN^pO^cC^P^c1^P^c2^P^e2^a^r^nt4:^eSUM^pV^c2^P<REF^pV^c3^P*2.1^a^r^nSELECT t1 AND t2 AND t4 AND H>L^a^r^n,2147430400;

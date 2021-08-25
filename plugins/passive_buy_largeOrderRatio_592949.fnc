@@ -1,0 +1,1 @@
+passive_buy_largeOrderRatio,592949,,^pWAITBUYCOUNT1+WAITBUYCOUNT2^P/SHGZG*100,0;

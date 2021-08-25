@@ -1,0 +1,1 @@
+price_change_13week,134133,,qq:^pC^sC^b12^B^P/C^b12^B *100//^s^s在周K线周期下才有效^r^n,2147430400;

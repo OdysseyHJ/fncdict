@@ -1,0 +1,1 @@
+AI_agent_wish_new,134106,,JF^ejgjrda^a^r^nIF ^pjgjrda^eREF^pjgjrda^c1^P AND jgrda^eREF^pjgrda^c1^P AND jggzda^eREF^pjggzda^c1^P AND jggzdb^eREF^pjggzdb^c1^P AND jgrdb^eREF^pjgrdb^c1^P^P THEN DF:0^a^r^nELSE IF JF>100 THEN DF:100^a^r^nELSE IF JF>^s100 THEN DF:JF^a^r^nELSE DF:^s100^a^r^n^r^nIF JF>100 THEN DF2:100^a^r^nELSE IF JF>^s100 THEN DF2:JF^a^r^nELSE DF2:^s100^a,2147430400;

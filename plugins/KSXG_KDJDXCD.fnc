@@ -1,0 +1,1 @@
+KDJ¶ÌÏß³¬µø,461354,,NN:^e14^a^r^nTYP:^e^pHIGH+LOW+CLOSE^P/3^a^r^nCCI:^e^pTYP^sMA^pTYP^cNN^P^P/^p0.015*AVEDEV^pTYP^cNN^P^P^a^r^nRSV:^e^pCLOSE^sLLV^pLOW^c9^P^P/^pHHV^pHIGH^c9^P^sLLV^pLOW^c9^P^P*100^a^r^nK:^eSMA^pRSV^c3^c1^P^a^r^nD:^eSMA^pK^c3^c1^P^a^r^nJ:^e3*K^s2*D^a^r^nSELECT REF^pJ^c1^P<0 AND CCI>REF^pCCI^c1^P^a^r^n^r^n,2147430400;

@@ -1,0 +1,1 @@
+MACD买入条件选股,3541457,LONG^e26^c1^c100^c1^rSHORT^e12^c1^c100^c1^rM^e9^c1^c100^c1^r,DIFF ^e EMA^pCLOSE^cSHORT^P ^s EMA^pCLOSE^cLONG^P^a^r^nDEA  ^e EMA^pDIFF^cM^P^a^r^nCROSS^pdiff^cdea^P^r^n,2147430400;

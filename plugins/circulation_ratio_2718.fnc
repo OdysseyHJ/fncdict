@@ -1,0 +1,1 @@
+circulation_ratio,2718,,100*SHGZG/ZGB^a,-2147483648;

@@ -1,0 +1,1 @@
+AI_agent_research_dgree,68951,,A1:^ejgyjda^a^r^nIF^pjgyjda>500^P^r^nA1^e500^a^r^nELSE A1^ejgyjda^a^r^nA2^eA1*2/10^a^r^n机构总研究度:^eA2 ^a^r^nA3:^eA2^sMA^pA2^c10^P^a^r^nA4:^eIF^pjgyjda ^eREF^pjgyjda^c1^P AND jgrda ^eREF^pjgrda^c1^P^cNULL^cA3^P^a^r^nRETURN A4^a^r^n,2147430400;

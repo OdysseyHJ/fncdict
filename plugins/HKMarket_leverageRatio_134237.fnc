@@ -1,0 +1,1 @@
+HKMarket_leverageRatio,134237,,a^eINDEXDATA^pQZXX_BDZQ^c&NEW^P^a ^r^nb^eQZXX_XQBL^a ^r^n{ ^r^nw^ea/^pNEW*b^P^a ^r^n} ^r^nRETURN^pw^P^a,0;

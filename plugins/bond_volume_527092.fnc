@@ -1,0 +1,1 @@
+bond_volume,527092,,IF^pMARKETTYPE^e^e16 OR MARKETTYPE^e^e32^P^r^n	A:^eVOL^a^r^nELSE IF^pMARKETTYPE^e^e136^P^r^n   A:^eVOL/10^a^r^nRETURN A^a,0;

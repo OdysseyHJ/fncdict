@@ -1,0 +1,1 @@
+CSI300Index_contribution,592543,,a^eINDEXDATA^p"399300"^c&PRE^P^a^r^nb^eINDEXDATA^p"399300"^c&DPLTSZ^P^a^r^n^pNEW^sPRE^P*SHGZG/b*a^a,0;

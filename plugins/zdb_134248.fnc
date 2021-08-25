@@ -1,0 +1,1 @@
+ÕÇµø±È,134248,,IF^pFALLCOUNT ^e^e 0^P^n{^n	ZDRatio ^e 100000000+RISECOUNT^a^n}^nELSE IF^pRISECOUNT ^e^e 0^P^n{^n	ZDRatio ^e 0^sFALLCOUNT^a^n}^nELSE^n{^n	ZDRatio ^e RISECOUNT/FALLCOUNT^a^n}^n^n^nRETURN ZDRatio^a^n,0

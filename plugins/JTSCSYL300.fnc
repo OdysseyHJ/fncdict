@@ -1,0 +1,1 @@
+静态市场市盈率300,134007,,IF^pCODE^e^e"399300" OR CODE^e^e"1B0300"^P^r^n	{^r^n		a^eINDEXDATA^p"883300"^c&HQZSZ^P^a^r^n	}^r^nELSE^r^n	{^r^n		a^eHQZSZ^a^r^n	}^r^nRETURN a/JTSCJLR^a,-2147483648;

@@ -1,0 +1,1 @@
+·´µ¯ÏÈ·æ,526848,,TJ:^eC/MA^pC^c60^P<0.9 AND C>MA^pC^c30^P*1.004^a^r^nSELECT CROSS^pTJ^c0.5^P^a,2147430400;

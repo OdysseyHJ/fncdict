@@ -1,0 +1,1 @@
+MACD红二波^s^s中线或短线追涨,461350,,DIF:^eEMA^pC^c12^P^sEMA^pC^c26^P^a^r^nDEA:^eEMA^pDIF^c9^P^a^r^nMACD:^eDIF^sDEA^a^r^nSZ:^eMACD<REF^pMACD^c1^P^a^r^nSELECT REF^pCOUNT^pSZ^c2^P^e2^c1^P AND MACD>REF^pMACD^c2^P AND MACD>0^a^r^n^r^n,2147430400;

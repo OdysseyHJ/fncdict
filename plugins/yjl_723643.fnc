@@ -1,0 +1,1 @@
+Òç¼ÛÂÊ,723643,,IF^pputcall ^e^e "C"^P^nRETURN ^p^pqqxqj+NEW^P/INDEXDATA^pbdzqdm^c&NEW^P^s1^P*100^a^nELSE^nRETURN ^p1^s^pqqxqj^sNEW^P/INDEXDATA^pbdzqdm^c&NEW^P^P*100^a,0

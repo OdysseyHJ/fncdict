@@ -1,0 +1,1 @@
+longPostion_array,1073876250,,^r^ndy ^eMA^pCLOSE^c5^P^a^r^ndy2^eMA^pCLOSE^c10^P^a^r^ndy3^eMA^pCLOSE^c20^P^a^r^ndy4^eMA^pCLOSE^c30^P^a^r^ndy5^eMA^pCLOSE^c60^P^a^r^nRETURN dy>dy^b1^B AND dy2>dy2^b1^B AND dy3>dy3^b1^B AND dy4>dy4^b1^B AND dy5>dy5^b1^B AND dy>dy2 AND dy2>dy3 AND dy3>dy4 AND dy4>dy5^a,2147430400;

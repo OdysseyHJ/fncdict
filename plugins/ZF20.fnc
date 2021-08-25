@@ -1,0 +1,1 @@
+priceChange_20D,199639,,pre_price ^e IF^pISNULL^pCLOSE^b20^B^P^c qfqfxj^c CLOSE^b20^B^P^a^npre_price ^e IF^pISNULL^ppre_price^P^c sjfxj^c pre_price^P^a^npre_price ^e IF^pISNULL^ppre_price^P^c fxj^c pre_price^P^a^nres ^e ^pCLOSE ^s pre_price^P / pre_price * 100^a^nreturn res^a,2147430400

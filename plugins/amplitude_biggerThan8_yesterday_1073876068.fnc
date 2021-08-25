@@ -1,0 +1,1 @@
+amplitude_biggerThan8_yesterday,1073876068,,SELECT ^p^pHIGH^b1^B^sLOW^b1^B^P/CLOSE^b2^B^P >^e 0.08^a,2147430400;

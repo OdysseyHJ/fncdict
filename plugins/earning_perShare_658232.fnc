@@ -1,0 +1,1 @@
+earning_perShare,658232,,a^eJLR/ZGB^a^r^n^r^nRETURN^pa^P^a^r^n,0;

@@ -1,0 +1,1 @@
+–È µ∂»,134378,,IF^pISNULL^pNEW^P ^e^e 1 OR ISNULL^pVOL^P ^e^e 1^P^r^nRETURN 0^a^r^nIF^pputcall ^e^e "C"^P^r^nRETURN ^pINDEXDATA^pbdzqdm^c&NEW^P^sqqxqj^P/qqxqj*100^a^r^nELSE^r^nRETURN ^pqqxqj^sINDEXDATA^pbdzqdm^c&NEW^P^P/qqxqj*100^a,0;

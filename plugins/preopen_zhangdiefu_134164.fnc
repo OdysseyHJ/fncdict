@@ -1,0 +1,1 @@
+美股的盘前涨跌幅,134164,,ret^e^pPQXJ^sPRE^P/PRE*100^a^r^nRETURN ret^a,0;
