@@ -333,7 +333,7 @@ class fncTable(QTableWidget):
             self.btnlist.append(FidButton(fobjlist[ii]))
             self.btnlist[ii].setDown(True)
             # 修改按钮大小
-            self.btnlist[ii].setStyleSheet("QPushButton{margin:3px};")
+            self.btnlist[ii].setStyleSheet("QPushButton{margin:1px};")
             self.btnlist[ii].clicked.connect(self.btnlist[ii].showInfo)
 
             # 将按钮添加到单元格
@@ -423,14 +423,19 @@ class fncInfoTable(QTableWidget):
         self.setTableRowItem(refAnaRes[3])
 
         self.setTableRowItem(str(fobj.content))
-        self.btnlist.append(refDataButton(refAnaRes[0],refAnaRes[0]))
-        self.btnlist[0].setDown(True)
-        # 修改按钮大小
-        self.btnlist[0].setStyleSheet("QPushButton{margin:3px};")
-        self.btnlist[0].clicked.connect(self.btnlist[0].showInfo)
 
-        # 将按钮添加到单元格
-        self.setCellWidget(6, 0, self.btnlist[0])
+        btnoffset = 5
+        btncnt = 4
+        for i in range(btncnt):
+            if len(refAnaRes[i]) == 0:
+                self.btnlist.append(0)
+                continue
+            self.btnlist.append(refDataButton(refAnaRes[i]))
+            # 修改按钮大小
+            self.btnlist[i].setStyleSheet("QPushButton{margin:0px;font-size:14px;text-indent:10px;text-align:left;};")
+            self.btnlist[i].clicked.connect(self.btnlist[i].showInfo)
+            # 将按钮添加到单元格
+            self.setCellWidget(btnoffset+i, 0, self.btnlist[i])
 
 
 
@@ -445,8 +450,8 @@ class fncInfoTable(QTableWidget):
         return True
 
 class refDataButton(QPushButton):
-    def __init__(self, strRef, btnName='btn'):
-        super().__init__(str(btnName))
+    def __init__(self, strRef):
+        super().__init__(str(strRef))
 
         self.strRef = strRef
         self.reflist = []
@@ -465,8 +470,7 @@ class refDataTable(QTableWidget):
     def __init__(self, reflist):
         super().__init__()
 
-        self.setWindowTitle('引用数据')
-
+        self.setWindowTitle('引用数据表')
 
         # 设置大小
         self.resize(300, 500)
