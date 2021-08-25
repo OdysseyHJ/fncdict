@@ -355,10 +355,12 @@ class FidButton(QPushButton):
     def showInfo(self):
         self.infoTbl = fncInfoTable(self.fobj)
 
+
+
 class fncInfoTable(QTableWidget):
     def __init__(self, fobj):
         super().__init__()
-
+        self.btnlist = []
         self.setWindowTitle("公式" + str(fobj.id))
 
         # 设置大小
@@ -421,6 +423,16 @@ class fncInfoTable(QTableWidget):
         self.setTableRowItem(refAnaRes[3])
 
         self.setTableRowItem(str(fobj.content))
+        self.btnlist.append(refDataButton(refAnaRes[0],refAnaRes[0]))
+        self.btnlist[0].setDown(True)
+        # 修改按钮大小
+        self.btnlist[0].setStyleSheet("QPushButton{margin:3px};")
+        self.btnlist[0].clicked.connect(self.btnlist[0].showInfo)
+
+        # 将按钮添加到单元格
+        self.setCellWidget(6, 0, self.btnlist[0])
+
+
 
 
 
@@ -431,6 +443,64 @@ class fncInfoTable(QTableWidget):
         # self.resizeRowsToContents()
 
         return True
+
+class refDataButton(QPushButton):
+    def __init__(self, strRef, btnName='btn'):
+        super().__init__(str(btnName))
+
+        self.strRef = strRef
+        self.reflist = []
+        self.initRefList(strRef)
+
+    def showInfo(self):
+        self.infoTbl = refDataTable(self.reflist)
+
+    def initRefList(self, strRef):
+        namelist = strRef.split(',')
+        for name in namelist:
+            if name in fncData.hxName2obj.keys():
+                self.reflist.append(fncData.hxName2obj[name])
+
+class refDataTable(QTableWidget):
+    def __init__(self, reflist):
+        super().__init__()
+
+        self.setWindowTitle('引用数据')
+
+
+        # 设置大小
+        self.resize(300, 500)
+
+        # 设置行数列数
+        rowCnt = len(reflist)
+        columCnt = 3
+        self.setRowCount(rowCnt)
+        self.setColumnCount(columCnt)
+
+
+        # 设置行列标题
+        rowNumList = [str(x) for x in range(1, rowCnt + 1)]
+        self.setVerticalHeaderLabels(rowNumList)
+        columnNamelist = ['数据项ID', '数据项名称', '说明']
+        self.setHorizontalHeaderLabels(columnNamelist)
+
+        self.setEditTriggers(QAbstractItemView.NoEditTriggers)
+        self.setAlternatingRowColors(True)
+
+        # 设置表格数据
+        self.setTable(reflist)
+
+        self.show()
+
+
+    def setTable(self, reflist):
+        for ii in range(len(reflist)):
+            # 将按钮添加到单元格
+            self.setItem(ii, 0, QTableWidgetItem(str(reflist[ii].id)))
+            self.setItem(ii, 1, QTableWidgetItem(str(reflist[ii].name)))
+            self.setItem(ii, 2, QTableWidgetItem(str(reflist[ii].description)))
+
+
 
 
 
