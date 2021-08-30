@@ -76,6 +76,18 @@ periodDict = {
     FNC_PERIOD_YEAR         : 'yearN',
 }
 
+periodDictCn = {
+    FNC_PERIOD_REALTIME: '快照',
+    FNC_PERIOD_TRACE: '明细',
+    FNC_PERIOD_MINTIME: '分时',
+    FNC_PERIOD_MINUTE: '分钟K线',
+    FNC_PERIOD_DAY: '日K线',
+    FNC_PERIOD_WEEK: '周K线',
+    FNC_PERIOD_MONTH: '月K线',
+    FNC_PERIOD_SEASON: '季度K线',
+    FNC_PERIOD_YEAR: '年K线',
+}
+
 
 class fncObj:
 
@@ -116,8 +128,8 @@ class fncObj:
 
     def getDefaultPeriodItem(self):
         period = self.getDefaultPeriod()
-        if period in periodDict.keys():
-            return periodDict[period]
+        if period in periodDictCn.keys():
+            return periodDictCn[period]
         else:
             hjio.writelog('wrong period:{}'.format(period))
             return None
@@ -135,21 +147,21 @@ class fncObj:
         periodList = []
         (periodStart, periodEnd) = self.getPeriodRange()
         if periodStart == FNC_PERIOD_REALTIME:
-            periodList.append(periodDict[FNC_PERIOD_REALTIME])
+            periodList.append(periodDictCn[FNC_PERIOD_REALTIME])
         if periodStart <= FNC_PERIOD_TRACE and FNC_PERIOD_TRACE <= periodEnd:
-            periodList.append(periodDict[FNC_PERIOD_TRACE])
+            periodList.append(periodDictCn[FNC_PERIOD_TRACE])
         if periodStart <= FNC_PERIOD_MINTIME and FNC_PERIOD_MINTIME <= periodEnd:
-            periodList.append(periodDict[FNC_PERIOD_MINTIME])
+            periodList.append(periodDictCn[FNC_PERIOD_MINTIME])
         if periodStart <= FNC_PERIOD_MINUTE and FNC_PERIOD_MINUTE <= periodEnd:
-            periodList.append(periodDict[FNC_PERIOD_MINUTE])
+            periodList.append(periodDictCn[FNC_PERIOD_MINUTE])
         if periodStart <= FNC_PERIOD_DAY and FNC_PERIOD_DAY <= periodEnd:
-            periodList.append(periodDict[FNC_PERIOD_DAY])
+            periodList.append(periodDictCn[FNC_PERIOD_DAY])
         if periodStart <= FNC_PERIOD_WEEK and FNC_PERIOD_WEEK <= periodEnd:
-            periodList.append(periodDict[FNC_PERIOD_WEEK])
+            periodList.append(periodDictCn[FNC_PERIOD_WEEK])
         if periodStart <= FNC_PERIOD_MONTH and FNC_PERIOD_MONTH <= periodEnd:
-            periodList.append(periodDict[FNC_PERIOD_MONTH])
+            periodList.append(periodDictCn[FNC_PERIOD_MONTH])
         if periodStart <= FNC_PERIOD_YEAR and FNC_PERIOD_YEAR <= periodEnd:
-            periodList.append(periodDict[FNC_PERIOD_YEAR])
+            periodList.append(periodDictCn[FNC_PERIOD_YEAR])
 
         return periodList
 

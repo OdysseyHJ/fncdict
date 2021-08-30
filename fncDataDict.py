@@ -313,6 +313,7 @@ class fncTable(QTableWidget):
         columnNamelist = ['公式ID', '公式名', '文件名', '安装目录', '适用周期']
         self.setHorizontalHeaderLabels(columnNamelist)
 
+        # self.verticalHeader().setSectionResizeMode(1, QHeaderView.ResizeToContents)
         # self.horizontalHeader().setSectionResizeMode(QHeaderView.Stretch)
         self.setEditTriggers(QAbstractItemView.NoEditTriggers)
         self.setAlternatingRowColors(True)
@@ -333,7 +334,7 @@ class fncTable(QTableWidget):
             self.btnlist.append(FidButton(fobjlist[ii]))
             self.btnlist[ii].setDown(True)
             # 修改按钮大小
-            self.btnlist[ii].setStyleSheet("QPushButton{margin:1px};")
+            self.btnlist[ii].setStyleSheet("QPushButton{margin:1px;font-size:13px};")
             self.btnlist[ii].clicked.connect(self.btnlist[ii].showInfo)
 
             # 将按钮添加到单元格
@@ -473,7 +474,7 @@ class refDataTable(QTableWidget):
         self.setWindowTitle('引用数据表')
 
         # 设置大小
-        self.resize(300, 500)
+        self.resize(500, 600)
 
         # 设置行数列数
         rowCnt = len(reflist)
@@ -487,7 +488,7 @@ class refDataTable(QTableWidget):
         self.setVerticalHeaderLabels(rowNumList)
         columnNamelist = ['数据项ID', '数据项名称', '说明']
         self.setHorizontalHeaderLabels(columnNamelist)
-
+        self.horizontalHeader().setSectionResizeMode(QHeaderView.Stretch)
         self.setEditTriggers(QAbstractItemView.NoEditTriggers)
         self.setAlternatingRowColors(True)
 
