@@ -1,1 +1,1 @@
-浠婃槰鏃╃洏绔炰环閲忔瘮,199714,,ret_vol_ratio: OPENVOL / ref^pOPENVOL^c 1^P^a,2147434496;
+今昨早盘竞价量比,199714,,return OPENVOL / ref^pOPENVOL^c 1^P^a,2147434496;

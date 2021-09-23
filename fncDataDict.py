@@ -1,8 +1,9 @@
 import sys
-from PyQt5.QtWidgets import *
-from PyQt5.QtGui import *
-from PyQt5.QtCore import *
+from PyQt5.QtWidgets import QWidget,QTableWidget,QPushButton,QApplication,QLabel,QLineEdit,QCheckBox,QHBoxLayout,QVBoxLayout,QMessageBox,QAbstractItemView,QTableWidgetItem,QHeaderView
+from PyQt5.QtGui import QIcon
+from PyQt5.QtCore import Qt
 from enum import Enum
+import copy
 
 import fncData
 from fnclib import fncObj
@@ -164,12 +165,22 @@ class CFncDataDict(QWidget):
     def search(self):
         fobj = self.getSearchFobj()
         searchRes = self.selectInDatabase(fobj)
+        deSubFlag = False
+
+        if len(searchRes) == 0:
+            subfobj = self.getDeSubidFobj()
+            if subfobj:
+                searchRes = self.selectInDatabase(subfobj)
+                deSubFlag = True
+
         self.searchResShow(searchRes)
 
         # 没有找到公式时提示
         if len(searchRes) == 0:
-            QMessageBox.information(self, "", "oops,没有查找到计算公式")
+            QMessageBox.information(self, "info", "opps,没有查找到计算公式")
         else:
+            if deSubFlag:
+                QMessageBox.information(self, "info", "ID不存在,已匹配公式原始ID")
             self.fTable = fncTable(searchRes)
 
         return
@@ -185,6 +196,16 @@ class CFncDataDict(QWidget):
                 self.fobjIn.algrithm = self.sections[key].data
 
         return self.fobjIn
+
+    def getDeSubidFobj(self):
+        parentId = fncData.getParaentID(self.fobjIn.id)
+
+        # ID一样需要返回None
+        if parentId == self.fobjIn.id:
+            return None
+        fobj = copy.copy(self.fobjIn)
+        fobj.id = parentId
+        return fobj
 
     # @staticmethod
     def selectInDatabase(self, sfobj):

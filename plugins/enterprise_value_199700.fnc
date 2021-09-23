@@ -1,1 +1,1 @@
-enterprise_value,199700,,vprice ^e IF^pISNULL^pNEW^P^cPRE^cNEW^P^a^nQYJZBS ^e ^pvprice * ZGB + YXG ^s HBZJ + SYS_DXFZ + SYS_SSGDQY^P / SYS_EBITDA^a^nRETURN IF^pISNULL^pQYJZBS^P^cNULL^c QYJZBS^P^a,0
+enterprise_value,199700,,vprice ^e IF^pISNULL^pNEW^P^cPRE^cNEW^P^a^nvyxg ^e IF^pISNULL^pYXG^P^c0^cYXG^P^a^nvhbzj ^e IF^pISNULL^pHBZJ^P^c0^cHBZJ^P^a^nvdxfz ^e IF^pISNULL^pSYS_DXFZ^P^c0^cSYS_DXFZ^P^a^nvssgdqy ^e IF^pISNULL^pSYS_SSGDQY^P^c0^cSYS_SSGDQY^P^a^nQYJZBS ^e ^pvprice * ZGB + vyxg ^s vhbzj + vdxfz + vssgdqy^P / SYS_EBITDA^a^nRETURN IF^pISNULL^pQYJZBS^P^cNULL^c QYJZBS^P^a,0

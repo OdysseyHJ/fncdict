@@ -22,6 +22,7 @@ MODE_FNC_ID_FIND = 5
 MODE_HXINI_NAME_CHECK = 6
 MODE_HISTORY_DATA_ANA = 7
 MODE_HXINI_UPDATE = 8
+MODE_FNC_MONITOR = 9
 
 
 
@@ -156,10 +157,10 @@ def ModeHxiniNameCheck():
 
 def ModeHistoryDataAna():
     #历史数据处理
-    filelist = historyLib.getFileList(setting.history_data_path)
-    historyLib.history_data_proc(filelist)
-    # historyLib.genCsv(setting.table_path)
-    historyLib.MarketDataInit()
+    # filelist = historyLib.getFileList(setting.history_data_path)
+    # historyLib.history_data_proc(filelist)
+    # # historyLib.genCsv(setting.table_path)
+    # historyLib.MarketDataInit()
     # print(sorted(historyLib.marketSet))
 
     #图表绘制
@@ -167,7 +168,7 @@ def ModeHistoryDataAna():
     # graphlib.drawPlotAll(setting.graph_plot_path)
 
     #图表工具
-    hjdraw.init()
+    # hjdraw.init()
     return
 
 def ModeHxiniUpdate():
@@ -201,6 +202,30 @@ def ModeHxiniUpdate():
 
     return
 
+def ModeFncMonitor():
+    filelib = fnclib.getFileLib(setting.formula_stat_path)
+    # print(type(filelib))
+    # print(filelib)
+    sheetdict = {}
+
+    sheet = []
+    path = filelib[0][0]
+    for file in filelib[0][2]:
+        line = []
+        hostname = file.split('.')[0]
+        # print(hostname)
+        filepath = "{}\\{}".format(path, file)
+        content = hjio.readFile(filepath)
+        split_list = content.split('\n')
+        fnc_count = split_list[0].split('=')[1]
+        plugins_md5 = split_list[1].split('=')[1].split(' ')[0]
+        version = split_list[2].split('=')[1]
+        line = [hostname, fnc_count, plugins_md5, version]
+        sheet.append(line)
+    sheetdict['升级情况'] = sheet
+    hjio.writeExcel(setting.formula_stat_out_path, sheetdict)
+
+
 
 calldict = {
     MODE_DATA_DICT : ModeDataDict,
@@ -212,6 +237,7 @@ calldict = {
     MODE_HXINI_NAME_CHECK : ModeHxiniNameCheck,
     MODE_HISTORY_DATA_ANA : ModeHistoryDataAna,
     MODE_HXINI_UPDATE : ModeHxiniUpdate,
+    MODE_FNC_MONITOR : ModeFncMonitor,
 }
 
 def main():
@@ -220,7 +246,7 @@ def main():
     hjio.init(setting.logpath)
     hjio.writelog("PROCESS START")
     # 运行
-    runByMode(0)
+    runByMode(9)
 
     # 清空日志缓存，写文件
     hjio.clearbuf('P'

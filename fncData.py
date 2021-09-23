@@ -84,6 +84,24 @@ def init(folderpath):
     timeBand.addTimePoint()
     # print(timeBand.getTimeBand())
     hjio.writelog("fnc data init successsfully! timeband:{}".format(str(timeBand.getTimeBand())))
+
+    base_fobj_list = []
+    for key in baseDict.keys():
+        base_fobj_list += baseDict[key]
+
+    search_list = ['MARKETTYPE==16', 'MARKETTYPE==32', 'MARKETTYPE == 16', 'MARKETTYPE == 32']
+    res_list = [[], []]
+    for index in range(len(search_list)):
+        rlindex = index % 2
+        for fobj in base_fobj_list:
+            find_index = fobj.algrithm.lower().find(search_list[index].lower())
+            if find_index >= 0:
+                if rlindex == 0 and fobj.algrithm[find_index+len(search_list[index])] in varUpperLetterSet:
+                    print("filtered id:", fobj.id, "char:", fobj.algrithm[find_index+len(search_list[index])])
+                    continue
+
+                res_list[rlindex].append(fobj.id)
+    print(res_list)
     return
 
 def baseDictInit(folderpath):
@@ -110,7 +128,16 @@ def hexiniConfInit(folderpath):
     return
 
 
-upperLetterSet = {'A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z'}
+varUpperLetterSet = {'A','B','C','D','E','F','G',
+                     'H','I','J','K','L','M','N',
+                     'O','P','Q','R','S','T',
+                     'U','V','W','X','Y','Z',
+                     '0','1','2','3','4','5','6','7','8','9',
+                     '_',}
+
+# Number
+
+
 
 def hexinUnitRef(str2find, retIDlist = False):
     if len(str2find) == 0:
@@ -125,8 +152,8 @@ def hexinUnitRef(str2find, retIDlist = False):
             nameLen = len(name)
 
             # 避免函数名匹配出错，字符串字串重复匹配问题，这里对系统函数做了检查
-            if ((headIndex-1 < 0) or (str2find[headIndex-1] not in upperLetterSet)) \
-                    and ((headIndex + nameLen >= len(str2find)) or (str2find[headIndex+nameLen] not in upperLetterSet)):
+            if ((headIndex-1 < 0) or (str2find[headIndex-1] not in varUpperLetterSet)) \
+                    and ((headIndex + nameLen >= len(str2find)) or (str2find[headIndex+nameLen] not in varUpperLetterSet)):
                 refNamelist.append(name)
 
     refIDlist = []
@@ -134,7 +161,6 @@ def hexinUnitRef(str2find, retIDlist = False):
         for name in refNamelist:
             refIDlist.append(hxName2obj[name])
         return retIDlist
-
     return refNamelist
 
 
@@ -187,6 +213,16 @@ SM_TEXT_BEGIN = 3505
 SM_OTHER_BEGIN = 3606
 SM_END = 4905
 
+# mask
+SM_BASE_PROJECT_MASK = 0x00000fff  #数据基本项目类段掩码
+SM_BASE_TYPE_MASK = 0x00007000  #数据类型 整形、浮点型、字符串
+SM_PROJECT_INSTANCE_MASK = 0x1fc00000 #项目实例掩码
+
+def getDataBasetype(id):
+    return id & SM_BASE_PROJECT_MASK
+
+def getParaentID(id):
+    return ~(SM_BASE_TYPE_MASK | SM_PROJECT_INSTANCE_MASK) & id
 
 def hexinUnitSegment(name='',id=0):
     if id == 0:
@@ -200,6 +236,8 @@ def hexinUnitSegment(name='',id=0):
                 hjio.writelog("hexinUnitSegment, error:id = 0, str = {}".format(name))
                 return
 
+    # 获取基本项目id,这样才能正确识别数据分类
+    id = getDataBasetype(id)
     if SM_HQ_BEGIN <= id and id < SM_FD_BEGIN:
         return SM_HQ_NAME
     elif SM_FD_BEGIN <= id and id < SM_WT_BEGIN:

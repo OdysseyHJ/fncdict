@@ -67,3 +67,10 @@ history_data_path = makepath(rootpath, r'\stat')
 table_path = makepath(rootpath, r'\table')
 graph_bar_path = makepath(rootpath, r'\graph\bar')
 graph_plot_path = makepath(rootpath, r'\graph\plot')
+
+
+###################################################
+#          formula stat
+###################################################
+formula_stat_path = r'D:\HJ_EX_Docs\HQSERVER\HQSERVER-3171\data'
+formula_stat_out_path = r'D:\HJ_EX_Docs\HQSERVER\HQSERVER-3171\formula_stat.xls'

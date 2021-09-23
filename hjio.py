@@ -3,6 +3,7 @@ import os
 import setting
 import csv
 import datetime
+import xlwt
 
 iobuf = ''
 iobufLen = 10
@@ -88,4 +89,15 @@ def clearbuf(strTail=''):
         fp.write(iobuf)
     iobuf = ''
 
-
+def writeExcel(file, sheetdict):
+    fExcel = xlwt.Workbook()
+    for sheetName in sheetdict.keys():
+        sheet = fExcel.add_sheet(sheetName, cell_overwrite_ok=True)
+        rowidx = 0
+        for row in sheetdict[sheetName]:
+            colidx = 0
+            for unit in row:
+                sheet.write(rowidx, colidx, unit)
+                colidx +=1
+            rowidx += 1
+    fExcel.save(file)
